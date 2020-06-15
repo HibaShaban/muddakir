@@ -10,7 +10,6 @@ $(document).ready(function() {
 
     let setValues = function() {
         suraNum = $("#suraNum").val();
-
         counter = 1;
         questions = JSON.parse(JSON.stringify(question_type[suraNum].questions));
         total_questions = questions.length;
@@ -18,10 +17,10 @@ $(document).ready(function() {
 
     $.getJSON("data/questions.json", function(json) {
         db = json;
-        $.each(db.mahawir, function(key, value) {   
+        $.each(db.topics, function(key, value) {   
             $('#suraNum').append($("<option></option>").attr("value", key).text(value.sura));
         });
-        question_type = db.maqati;
+        question_type = db.topics;
         setValues();
     });
 
