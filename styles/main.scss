@@ -1,0 +1,12 @@
+$primary: hsl(209, 30%, 25%);
+$info: hsl(184, 9%, 62%);
+$box-background-color: hsl(192, 15%, 94%);
+$section-padding: 1.5rem 2rem;
+$container-offset: 8px;
+
+$switch-background-active: hsl(209, 30%, 25%);
+$switch-focus: 0px dotted $info;
+
+@import "/Users/hibashaban/Desktop/Muddakir2/node_modules/bulma/bulma.sass";
+
+@import "/Users/hibashaban/Desktop/Muddakir2/node_modules/bulma-switch/dist/css/bulma-switch.sass";
