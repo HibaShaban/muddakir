@@ -48,14 +48,14 @@ $(document).ready(function() {
     
     $('input[type=radio][name=question]').change(function() {
         switch(this.value) {
-            case 'topics':
-                question_type = db.topics;
+            case 'maqati':
+                question_type = db.maqati;
                 break;
             case 'mahawir':
                 question_type = db.mahawir;
                 break;
-            case 'maqati':
-                question_type = db.maqati;
+            case 'topics':
+                question_type = db.topics;
                 break;
         }
         setValues();
