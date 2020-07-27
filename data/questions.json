@@ -3466,8 +3466,598 @@
             "questions": [
                 {
                     "id": 1,
-                    "question": "Work in Progress… Come back later for questions",
-                    "ayat": " "
+                    "question": "The righteous, their guidance through the book, their qualities, and their success.",
+                    "ayat": " 5-1"
+                },
+                {
+                    "id": 2,
+                    "question": "The disbelievers, their seal and veil.",
+                    "ayat": " 7-6"
+                },
+                {
+                    "id": 3,
+                    "question": "The true qualities of the hypocrites, their corruption and avoidance of faith, their mockery with their evil associates of the believers, their trading of guidance for misguidance, and setting forth two examples for them “hydraulic (rain) and igneous (fire)”.",
+                    "ayat": "20-8"
+                },
+                {
+                    "id": 4,
+                    "question": "An order to worship Allah, and the proofs of the oneness of Allah.",
+                    "ayat": "22-21"
+                },
+                {
+                    "id": 5,
+                    "question": "The Challenge of producing a Surah like the Quran, blustering the disbelievers, and giving glad tidings to the believers.",
+                    "ayat": "25-23"
+                },
+                {
+                    "id": 6,
+                    "question": "Setting forth a parable of a mosquito, the stance of both the believers and disbelievers towards the parable, the characteristics of the hypocrites and their loss.",
+                    "ayat": "27-26"
+                },
+                {
+                    "id": 7,
+                    "question": "Reproaching disbelief with the appearance and proofs of Allah’s ability, creation, and knowledge.",
+                    "ayat": "29-28"
+                },
+                {
+                    "id": 8,
+                    "question": "Informing the angels of Allah’s successor on earth and their thoughts. ",
+                    "ayat": "30"
+                },
+                {
+                    "id": 9,
+                    "question": "Educating Adam and displaying his knowledge in front of the angels.",
+                    "ayat": "33-31"
+                },
+                {
+                    "id": 10,
+                    "question": "Ordering the angels to prostrate, their compliance, and Iblees’ refusal and arrogance.",
+                    "ayat": "34"
+                },
+                {
+                    "id": 11,
+                    "question": "The inhibitors (dwellers) of Jannah and warning against approaching the tree.",
+                    "ayat": "35"
+                },
+                {
+                    "id": 12,
+                    "question": "Satan causing the slip out of the Jannah, descending to earth, and repentance.",
+                    "ayat": "37-36"
+                },
+                {
+                    "id": 13,
+                    "question": "Establishing the descension, the given obligations (covenant), and the recompensation.",
+                    "ayat": "39-38"
+                },
+                {
+                    "id": 14,
+                    "question": "Reminding of the favors, the fulfillment of the covenant, and fearing Allah.",
+                    "ayat": "40"
+                },
+                {
+                    "id": 15,
+                    "question": "Believing in the Quran and having Taqwah (fear) of Allah.",
+                    "ayat": "41"
+                },
+                {
+                    "id": 16,
+                    "question": "Forbidding the mixing of the truth with falsehood or concealing it.",
+                    "ayat": "42"
+                },
+                {
+                    "id": 17,
+                    "question": "Establishing Salat (prayer) and Zakah (giving alms), and submitting to Allah.",
+                    "ayat": "43"
+                },
+                {
+                    "id": 18,
+                    "question": "Ordering themselves to righteousness.",
+                    "ayat": "44"
+                },
+                {
+                    "id": 19,
+                    "question": "Seeking help through patience and Salat (prayer).",
+                    "ayat": "46-45"
+                },
+                {
+                    "id": 20,
+                    "question": "Remembering the favors, and Allah’s selection/preference of them.",
+                    "ayat": "47"
+                },
+                {
+                    "id": 21,
+                    "question": "The fear of the Day of Judgement.",
+                    "ayat": "48"
+                },
+                {
+                    "id": 22,
+                    "question": "Survival from the People of Pharaoh.",
+                    "ayat": "49"
+                },
+                {
+                    "id": 23,
+                    "question": "Parting of the sea and Pharaoh’s drowning.",
+                    "ayat": "50"
+                },
+                {
+                    "id": 24,
+                    "question": "The forty nights’ appointment, their worshiping of the Calf, and forgiving them.",
+                    "ayat": "52-51"
+                },
+                {
+                    "id": 25,
+                    "question": "Giving Musa the Scripture and the Furqan (criterion).",
+                    "ayat": "53"
+                },
+                {
+                    "id": 26,
+                    "question": "Repentance from Calf-Worshiping by killing each other.",
+                    "ayat": "54"
+                },
+                {
+                    "id": 27,
+                    "question": "Demanding to see Allah, afflicting them with the thunderbolt, then reviving them with favors.",
+                    "ayat": "57-55"
+                },
+                {
+                    "id": 28,
+                    "question": "Ordering them to enter the Sacred Land (Jerusalem), and their exemplary punishment.",
+                    "ayat": "58"
+                },
+                {
+                    "id": 29,
+                    "question": "Asking Allah for water and its gushing.",
+                    "ayat": "59"
+                },
+                {
+                    "id": 30,
+                    "question": "Asking Allah for food, adhering to (striking them with) humiliation and poverty, and rewarding the believers out of all the religious communities.  ",
+                    "ayat": "62-60"
+                },
+                {
+                    "id": 31,
+                    "question": "The covenant of Tur (mount),and their transgression on the sabbath.",
+                    "ayat": "66-63"
+                },
+                {
+                    "id": 32,
+                    "question": "Their story with the cow, and showing the hardening of their hearts.",
+                    "ayat": "74-67"
+                },
+                {
+                    "id": 33,
+                    "question": "Distorting the words of Allah by Bani Israel (the Israelites), exposing their lies in their claims of belief, exposing their ignorance, and threatening them.",
+                    "ayat": "79-75"
+                },
+                {
+                    "id": 34,
+                    "question": "Their claim that the Hell fire will only touch them for a few days, and responding to them.",
+                    "ayat": "82-80"
+                },
+                {
+                    "id": 35,
+                    "question": "Their turning away and avoidance of the general covenant through objecting the specific covenant, and threating them.",
+                    "ayat": "86-83"
+                },
+                {
+                    "id": 36,
+                    "question": "Their stance/position towards Musa and Jesus peace be upon them (in particular) and of all the prophets (in general).",
+                    "ayat": "87"
+                },
+                {
+                    "id": 37,
+                    "question": "Their saying: “Our hearts are wrapped”, and responding to them.",
+                    "ayat": "88"
+                },
+                {
+                    "id": 38,
+                    "question": "Their stance towards the Quran, and responding to them.",
+                    "ayat": "90-89"
+                },
+                {
+                    "id": 39,
+                    "question": "Their stance towards the invitation to Eman (faith), and responding to them.",
+                    "ayat": "92-91"
+                },
+                {
+                    "id": 40,
+                    "question": "Their stance towards the covenant of Tur (mount).",
+                    "ayat": "93"
+                },
+                {
+                    "id": 41,
+                    "question": "Their defiance by wishing for death, showing their greediness for life. ",
+                    "ayat": "96-94"
+                },
+                {
+                    "id": 42,
+                    "question": "Replying to their animosity to Jibreel (Gabriel) peace be upon him, and threating them.",
+                    "ayat": "98-97"
+                },
+                {
+                    "id": 43,
+                    "question": "Exposing their disobedience by disbelieving in the verses of Allah, and their discarding of the covenants. ",
+                    "ayat": "100-99"
+                },
+                {
+                    "id": 44,
+                    "question": "Their stance towards sending the Messenger peace be upon him. ",
+                    "ayat": "101"
+                },
+                {
+                    "id": 45,
+                    "question": "Their following of magic, and acquitting Sulaiman (Solomon) peace be upon him of it, their horrible aftermath (end), and their ignorance. ",
+                    "ayat": "103-102"
+                },
+                {
+                    "id": 46,
+                    "question": "Guiding (advising) the believers to avoid and steer clear of words holding potentially ill meanings.",
+                    "ayat": "104"
+                },
+                {
+                    "id": 47,
+                    "question": "Exposing the envy of the people of the Scripture and the polytheist towards the believers.",
+                    "ayat": "105"
+                },
+                {
+                    "id": 48,
+                    "question": "Confirming abrogation in the Quran, and the reply to those who deny it.",
+                    "ayat": "107-106"
+                },
+                {
+                    "id": 49,
+                    "question": "Warning the believers against التعنت with questions as what was done by the people of Musa peace be upon him.",
+                    "ayat": "108"
+                },
+                {
+                    "id": 50,
+                    "question": "Warning against envying the people of the Scripture in particular, and showing how to confront them. ",
+                    "ayat": "110-109"
+                },
+                {
+                    "id": 51,
+                    "question": "Replying to the claim of the people of the Scripture that Paradise is specifically for the Jews and the Christians, and exposing their hostility towards each other.",
+                    "ayat": "113-111"
+                },
+                {
+                    "id": 52,
+                    "question": "Disgracing the Christians due to their destruction of Allah’s Masajid, and their punishment.",
+                    "ayat": "114"
+                },
+                {
+                    "id": 53,
+                    "question": "The Universality of Allah’s dominion, تنزيهه جل جلاله of having a child, and showing the greatness of His power.",
+                    "ayat": "117-115"
+                },
+                {
+                    "id": 54,
+                    "question": "The ignorance of the Christians when asking Allah speak to them.",
+                    "ayat": "118"
+                },
+                {
+                    "id": 55,
+                    "question": "Amusement: Showing the duties of the Prophet, peace be upon him, the truth to the greed of the Jews and Christians, and warnings against following them.",
+                    "ayat": "120-119"
+                },
+                {
+                    "id": 56,
+                    "question": "Complementing (praising) the believers of the people of the Scripture for reciting the book of Allah and acting upon it.",
+                    "ayat": "121"
+                },
+                {
+                    "id": 57,
+                    "question": "Ordering Bani Israel (the Israelites) to remember the favors of Allah upon them, and preparing for the Day of Judgement.",
+                    "ayat": "123-122"
+                },
+                {
+                    "id": 58,
+                    "question": "Trial and leadership.",
+                    "ayat": "124"
+                },
+                {
+                    "id": 59,
+                    "question": "Characteristics of the Sacred House, honoring the standing place of Ibrahim peace be upon him, assigning him and Ismaeel the building of the Sacred House, and the supplications (prayers) of Ibrahim and Ismaeel peace be upon them.",
+                    "ayat": "129-125"
+                },
+                {
+                    "id": 60,
+                    "question": "The religion of Ibrahim peace be upon him, and the reasons for choosing him.",
+                    "ayat": "131-130"
+                },
+                {
+                    "id": 61,
+                    "question": "The instructions (advises) of Ibrahim and Ya’qoub peace be upon them, and man’s responsibility for what he earns.",
+                    "ayat": "134-132"
+                },
+                {
+                    "id": 62,
+                    "question": "The claims of the Jews and the Christians regarding guidance, replying to them that abiding by the religion of Ibrahim and all the prophets is the guided way, threatening those who turn away from it, the emerging of Allah’s religion, the falsity/falsehood of the Jews’ and Christians’’ arguments, and emphasizing man’s responsibility of his earnings.   ",
+                    "ayat": "141-135"
+                },
+                {
+                    "id": 63,
+                    "question": "Reporting the Jew’s stance regarding changing the Qiblah (direction faced in prayer) and the reply to them.",
+                    "ayat": "142"
+                },
+                {
+                    "id": 64,
+                    "question": "The median of the people of Muhammad, peace be upon him,  its witnessing over the previous nations, and thru reason for facing Al-Bait Al-Maqdis (Jerusalem).",
+                    "ayat": "143"
+                },
+                {
+                    "id": 65,
+                    "question": "The decision of appointing the prophet, peace be upon him, to change the Qiblah (direction of prayer) towards the sacred house, clarifying the misguidance of the people of the Scripture and their stubbornness, warning against following their desires, concealing the truth by some of them after recognizing it, strengthening the believers and urging them to race to all that is good.",
+                    "ayat": "148-144"
+                },
+                {
+                    "id": 66,
+                    "question": "Ordering the prophet peace be upon him and his people to face Al-Masjid Al-Haram (the Sacred Mosque) while at home أمصار and during travel, strengthening the believers and their guidance.",
+                    "ayat": "150-149"
+                },
+                {
+                    "id": 67,
+                    "question": "Mentioning of Allah’s favor in sending the prophet, peace be upon him, and an order for remembrance and thanks.",
+                    "ayat": "152-151"
+                },
+                {
+                    "id": 68,
+                    "question": "Instructing the believers to have patience and to pray, the superiority of the martyrs, trials and glad-tidings for those who have patience and their reward.",
+                    "ayat": "157-153"
+                },
+                {
+                    "id": 69,
+                    "question": "Confirming that Al-Safa and Al-Marwah are of the symbols/rites of Hajj and ‘Umrah.",
+                    "ayat": "158"
+                },
+                {
+                    "id": 70,
+                    "question": "Cursing those who conceal knowledge and those who die upon disbelief.",
+                    "ayat": "162-159"
+                },
+                {
+                    "id": 71,
+                    "question": "Affirming the Oneness and its Universal/Cosmic signs, denunciating (disapproving of) polytheism with love for it, and the disapproval and regret of both the followed and the followers on the Day of Judgement.",
+                    "ayat": "167-163"
+                },
+                {
+                    "id": 72,
+                    "question": "Making permissible/lawful that which is good and warning against Satan, clarifying the manner of his animosity, persistence of the disbelievers in following their forefathers, and `setting forth an example of their state.",
+                    "ayat": "171-168"
+                },
+                {
+                    "id": 73,
+                    "question": "Instructing the believers to eat from what is good and give thanks, and clarifying the types of what is forbidden.",
+                    "ayat": "173-172"
+                },
+                {
+                    "id": 74,
+                    "question": "Emphasizing the disgrace of concealing knowledge and showing the punishment on the day of judgement, confirming their misguidance and their differences amongst themselves.",
+                    "ayat": "176-174"
+                },
+                {
+                    "id": 75,
+                    "question": "Showing the various ways of righteousness and the response given to the foolish.",
+                    "ayat": "177"
+                },
+                {
+                    "id": 76,
+                    "question": "From the laws of retribution and bequest (will).",
+                    "ayat": "182-178"
+                },
+                {
+                    "id": 77,
+                    "question": "From the rules of Ramadan (fasting), the Quran, supplication, and I’tikaf (retreat and seclusion in the Mosque), and types of forbidden foods.",
+                    "ayat": "188-183"
+                },
+                {
+                    "id": 78,
+                    "question": "The reply to those who ask about Al-Ahillah (new moons).",
+                    "ayat": "189"
+                },
+                {
+                    "id": 79,
+                    "question": "Fighting in self-defense, its rulings in the sacred months, and urging to spend in the way of Allah.",
+                    "ayat": "195-190"
+                },
+                {
+                    "id": 80,
+                    "question": "From the rules of Hajj and Umrah “the start of Al-Ihraam, provision, earning, remembrance, Ifadha (departure from ‘Arafaat), supplication, and being hasty”. ",
+                    "ayat": "203-196"
+                },
+                {
+                    "id": 81,
+                    "question": "Two samples of a corrupt hypocrite and an approval-seeking believer.",
+                    "ayat": "207-204"
+                },
+                {
+                    "id": 82,
+                    "question": "An invitation to enter into the religion of Islam, warning against following the footsteps of Satan, threatening his followers, explaining how Bani Israel (the Israelites) exchanged the favor of Allah, and the arrogant behavior of the disbelievers towards the believers in this world.",
+                    "ayat": "212-208"
+                },
+                {
+                    "id": 83,
+                    "question": "The history of unity and deviation, and the guidance through the prophets and books.",
+                    "ayat": "213"
+                },
+                {
+                    "id": 84,
+                    "question": "Amusement: Trial/affliction is a universal practice/tradition for the prophets and believers.",
+                    "ayat": "214"
+                },
+                {
+                    "id": 85,
+                    "question": "The reply to those who ask regarding voluntary expenditure and encouraging it.",
+                    "ayat": "215"
+                },
+                {
+                    "id": 86,
+                    "question": "The obligation of war and warning against its hatred.  The reply to those who ask regarding fighting in the sacred months, and complementing the emigrants who fight in the cause of Allah.",
+                    "ayat": "218-216"
+                },
+                {
+                    "id": 87,
+                    "question": "The reply to those who ask regarding wine/intoxicants and gambling, repeating the question about spending, and replying to those who ask about orphans. ",
+                    "ayat": "220-219"
+                },
+                {
+                    "id": 88,
+                    "question": "The ruling of marrying polytheistic women and men.",
+                    "ayat": "221"
+                },
+                {
+                    "id": 89,
+                    "question": "The reply to those who ask about menstruation.",
+                    "ayat": "223-222"
+                },
+                {
+                    "id": 90,
+                    "question": "The prohibition of making oaths forbidding good, and the ruling of unintentional oaths.",
+                    "ayat": "225-224"
+                },
+                {
+                    "id": 91,
+                    "question": "The oath against touching one’s won wife.",
+                    "ayat": "227-226"
+                },
+                {
+                    "id": 92,
+                    "question": "The vow to divorce “Al-‘Iddah (waiting period), counting the number of divorces, the consequences of the grand departure/breakup, and prohibiting harm against her or preventing her from marrying her former husband.",
+                    "ayat": "232-228"
+                },
+                {
+                    "id": 93,
+                    "question": "From the rules of nursing and spending on the children.",
+                    "ayat": "233"
+                },
+                {
+                    "id": 94,
+                    "question": "From the rulings of the women in their waiting periods: The ‘Iddah (widows’ waiting period), and the rulings for proposing to the women in their waiting period.",
+                    "ayat": "235-234"
+                },
+                {
+                    "id": 95,
+                    "question": "Repeating the rules of divorce: the ruling of a divorcee before touching them (consummation): those with unspecified dowry, and those with an appointed dowry. ",
+                    "ayat": "237-236"
+                },
+                {
+                    "id": 96,
+                    "question": "An order to maintain the prayer during all conditions.",
+                    "ayat": "239-238"
+                },
+                {
+                    "id": 97,
+                    "question": "Returning to the rulings of the women in their waiting period: the right of the widow’s waiting period in residing in her house for one year.  ",
+                    "ayat": "240"
+                },
+                {
+                    "id": 98,
+                    "question": "Emphasizing the right of the women divorcee regarding provision, showing Allah’s favors for explaining and making His rules clear.",
+                    "ayat": "242-241"
+                },
+                {
+                    "id": 99,
+                    "question": "The story of those who flee from death.",
+                    "ayat": "243"
+                },
+                {
+                    "id": 100,
+                    "question": "Urging to fight and spend in the way of Allah.",
+                    "ayat": "245-244"
+                },
+                {
+                    "id": 101,
+                    "question": "The story of the community/people of Bani Israel (the Israelites) with Taalout (Saul) “Asking to fight, appointing Taalout as their king, the trial, the battle, the victory, and giving Dawood (David) kingship and prophecy.  ",
+                    "ayat": "251-246"
+                },
+                {
+                    "id": 102,
+                    "question": "Commentary: Amusement; The truthfulness of the verses, thr truthfulness of the prophets, Allah’s wisdom in diversity, and the fighting amongst the nations.",
+                    "ayat": "253-252"
+                },
+                {
+                    "id": 103,
+                    "question": "Encouraging the believers to prepare for the Day of Judgement by spending.",
+                    "ayat": "254"
+                },
+                {
+                    "id": 104,
+                    "question": "The oneness of Allah and his power “Ayat Ul-Kursi”.",
+                    "ayat": "255"
+                },
+                {
+                    "id": 105,
+                    "question": "Forbidding any compulsion in acceptance of the religion, the benefit of having Allah as a Wali (an ally), and taking Taughout (false gods) as allies.",
+                    "ayat": "257-256"
+                },
+                {
+                    "id": 106,
+                    "question": "The dispute/argument between Ibrahim, peace be upon him, and An-Nimroud regarding the oneness of Allah.",
+                    "ayat": "258"
+                },
+                {
+                    "id": 107,
+                    "question": "Affirming the resurrection through two stories “the story of resurrecting a man after one hundred years and the story of Ibrahim, peace be upon him, and birds.",
+                    "ayat": "260-259"
+                },
+                {
+                    "id": 108,
+                    "question": "Giving an example of spending in the way of Allah, and clarifying the reward of the one who spends.",
+                    "ayat": "262-261"
+                },
+                {
+                    "id": 109,
+                    "question": "Responding kindly to those who ask (for money) and granting them forgivingness, warning the believers from reminders (of their charity) or hurtful speech, and giving a parable of a double-faced person (hypocrite) and one who is sincere in his charity.",
+                    "ayat": "265-263"
+                },
+                {
+                    "id": 110,
+                    "question": "Real examples showing the invalidation, on the Day of Judgement, of deeds accompanied by showing off and reminders. ",
+                    "ayat": "266"
+                },
+                {
+                    "id": 111,
+                    "question": "Urging to spend from what is good not from what is defective, warning from the threats of Satan, and Allah’s bounty upon his servants.",
+                    "ayat": "269-267"
+                },
+                {
+                    "id": 112,
+                    "question": "Allah’s knowledge of all expenditures, and the comparison between the concealed/private charity and the disclosed/public one.",
+                    "ayat": "271-270"
+                },
+                {
+                    "id": 113,
+                    "question": "Amusement, and preferring the charity seeking the countenance/pleasure of Allah, and emphasizing the reward for it.",
+                    "ayat": "272"
+                },
+                {
+                    "id": 114,
+                    "question": "The descriptions of those who deserve charity.",
+                    "ayat": "273"
+                },
+                {
+                    "id": 115,
+                    "question": "The reward of both the concealed/private charity and the disclosed/public one.",
+                    "ayat": "274"
+                },
+                {
+                    "id": 116,
+                    "question": "A parable of the rising of those who consume interest from their graves, their punishment, the blessings of charities, and the reward of the believers.",
+                    "ayat": "277-275"
+                },
+                {
+                    "id": 117,
+                    "question": "Urging to give up interest, threating in with a war from Allah, urging to seek and give charity to those who are in hardship, and reminding of the Day of Judgement. ",
+                    "ayat": "281-278"
+                },
+                {
+                    "id": 118,
+                    "question": "The laws of debts and collaterals, and commentating with Allah’s dominion and His account of His servants.",
+                    "ayat": "284-282"
+                },
+                {
+                    "id": 119,
+                    "question": "Conclusion: Faith, listening, obeying, and the believers’ supplication.",
+                    "ayat": "286-285"
                 }
             ]
         },
@@ -3476,8 +4066,348 @@
             "questions": [
                 {
                     "id": 1,
-                    "question": "Work in Progress… Come back later for questions",
-                    "ayat": " "
+                    "question": "“Ideological Steadfastness”; Affirming Tawheed, the message, the revelation of the books & blustering the disbelievers; illustrating the vastness of Allah’s knowledge, describing His creation in the wombs, His revelation of the precise (muhkamaat) and unspecific/elusive Ayahs (mutashaabihaat), and showing/exposing mankind’s status towards them.  ",
+                    "ayat": " 9-1"
+                },
+                {
+                    "id": 2,
+                    "question": "“Military steadfastness”; Warning the disbelievers who brag about their wealth and children with the likes of what afflicted the previous nations, blustering them, and reminding them of their utter defeat in the Battle of Badr.  The disinterest of the believers in the worldly adornments, enchanting them in the bliss of the Akhirah, and the characteristics of those deserving of them.  ",
+                    "ayat": "17-10"
+                },
+                {
+                    "id": 3,
+                    "question": "Declaring the Oneness of Allah, the dominance of the religion of Islam.  ",
+                    "ayat": "19-18"
+                },
+                {
+                    "id": 4,
+                    "question": "The reason behind the differences of the people of the book, and keeping the Prophet ﷺ firm against the arguments of the people of the book. ",
+                    "ayat": "20"
+                },
+                {
+                    "id": 5,
+                    "question": "Their disbelief in and killing of the Prophets and those who order justice, giving them tidings of the punishment and the worthlessness of their deeds. ",
+                    "ayat": "22-21"
+                },
+                {
+                    "id": 6,
+                    "question": "Their avoidance of taking Allah’s book for Judgment.  ",
+                    "ayat": "23"
+                },
+                {
+                    "id": 7,
+                    "question": "Their claim that the Fire will not touch them except for a few days, and their heedlessness regarding the Day of Gathering and Compensation. ",
+                    "ayat": "25-24"
+                },
+                {
+                    "id": 8,
+                    "question": "Teaching supplications promising the honor of Islam and its followers, and thanking Allah for His power. ",
+                    "ayat": "27-26"
+                },
+                {
+                    "id": 9,
+                    "question": "Forbidding from supporting the disbelievers, demonstrating Allah’s knowledge of the unknown, and reminding of the regret on the Day of Recompense. ",
+                    "ayat": "30-28"
+                },
+                {
+                    "id": 10,
+                    "question": "Proof of sincere love for Allah, and an order to obey Allah and His Prophet ﷺ.  ",
+                    "ayat": "32-31"
+                },
+                {
+                    "id": 11,
+                    "question": "Selecting the Prophets and their descendants, and the favoring of Al- ‘Imran. ",
+                    "ayat": "34-33"
+                },
+                {
+                    "id": 12,
+                    "question": "The pledge of ‘Imran’s wife, the birth of Maryam, Zakariyah’s care of her & his Duaa’ (supplication), Allah’s good tidings of Yahya (John), and the sign of that. ",
+                    "ayat": "41-35"
+                },
+                {
+                    "id": 13,
+                    "question": "The favoring of Maryam and ordering her to be in continuous worship, and a proof of the truthfulness of the revelation to the Prophet ﷺ by mentioning the competition of the rabbi’s with respect to the guardianship of Maryam. ",
+                    "ayat": "44-42"
+                },
+                {
+                    "id": 14,
+                    "question": "The glad tidings to Maryam of ‘Isa 'alaihis salam, mentioning his characteristics, his miracles, and the essence of his mission. ",
+                    "ayat": "51-45"
+                },
+                {
+                    "id": 15,
+                    "question": "Isa 'alaihis-salam's stance toward the disbelievers of Bani Israeel, the position of the Hawariyeen (disciples) and their Duaa’, and the emergence of the Christians ",
+                    "ayat": "53-52"
+                },
+                {
+                    "id": 16,
+                    "question": "Schemes and Schemes; Raising 'Isa a to the skies, and Allah's ruling in those who disbelieve in Him and those who believe.",
+                    "ayat": "57-54"
+                },
+                {
+                    "id": 17,
+                    "question": "The truthfulness of the Wahi (Angel Jibreel in revealing the revelation) in what he has revealed of stories, messages, and such.",
+                    "ayat": "58"
+                },
+                {
+                    "id": 18,
+                    "question": "Intellectually disproving the Christian ideology by likening the creation of ‘Isa to the creation of Adam peace be upon them. ",
+                    "ayat": "59"
+                },
+                {
+                    "id": 19,
+                    "question": "Strengthening the Prophet ﷺ on the truth, cursing the delegation of the Christians of Najran, emphasizing the truths, and threatening those who turn away. ",
+                    "ayat": "63-60"
+                },
+                {
+                    "id": 20,
+                    "question": "Inviting the people of the book to Tawheed (the oneness of Allah).  ",
+                    "ayat": "64"
+                },
+                {
+                    "id": 21,
+                    "question": "Rebuking the people of the book due to their arguments regarding Ibrahim ‘alaihis salam, confirming his upright religion and clarifying those who are most worthy of him; warning the disbelievers of the misguidance of the people of the book and their attempts to mislead them.",
+                    "ayat": "69-65"
+                },
+                {
+                    "id": 22,
+                    "question": "Rebuking the people of the book due to their disbelief, and their distortion and concealment of the truth. ",
+                    "ayat": "71-70"
+                },
+                {
+                    "id": 23,
+                    "question": "The people of the book’s incitement of mankind to hypocrisy, and teaching the response to them by clarifying the true source of guidance, bounty, and mercy.",
+                    "ayat": "74-72"
+                },
+                {
+                    "id": 24,
+                    "question": "The people of the book’s betrayal of some of the believers, explaining its reason, praising those who fulfill the covenant, and threatening the traitors. ",
+                    "ayat": "77-75"
+                },
+                {
+                    "id": 25,
+                    "question": "The people of book’s distortion of their books, and their lies against Allah. ",
+                    "ayat": "78"
+                },
+                {
+                    "id": 26,
+                    "question": "Disassociating ‘Isa ‘alaihis salam from the claims of divinity or ordering the worship of angels and prophets; the covenant of the prophets, warning those who turn away, admonishing those who refuse the religion of Allah. ",
+                    "ayat": "83-79"
+                },
+                {
+                    "id": 27,
+                    "question": "Ordering the Prophet ﷺ to announce his belief in all the prophets, and confirming that the religion of Islam is the only one acceptable to Allah. ",
+                    "ayat": "85-84"
+                },
+                {
+                    "id": 28,
+                    "question": "There is no guidance for those who reject truth after belief, their punishment, and the way to escape that is by repentance and reform.  ",
+                    "ayat": "89-86"
+                },
+                {
+                    "id": 29,
+                    "question": "The impossibility of accepting the repentance or ransom of those who died in a state of disbelief. ",
+                    "ayat": "91-90"
+                },
+                {
+                    "id": 30,
+                    "question": "Urging the believers to righteous giving. ",
+                    "ayat": "92"
+                },
+                {
+                    "id": 31,
+                    "question": "Replying to those who claim the falsehood of abrogation by presenting the event of Ya’qoub ‘alaihis-salam’s abstaining from certain foods, threatening those who lie, showing Allah’s truth, and an order to follow the religion of Ibrahim ‘alaihis salam. ",
+                    "ayat": "95-93"
+                },
+                {
+                    "id": 32,
+                    "question": "Replying to the suspicion of changing the Qiblah by clarifying and emphasizing the status of the House, and making the Hajj obligatory. ",
+                    "ayat": "97-96"
+                },
+                {
+                    "id": 33,
+                    "question": "Directing the Muslims to admonish the people of the book for their disbelief and hindering others from the way of Allah. ",
+                    "ayat": "99-98"
+                },
+                {
+                    "id": 34,
+                    "question": "Warning against following some of the people of the book and its leading to Riddah (apostasy), and urging the believers to remain steadfast. ",
+                    "ayat": "101-100"
+                },
+                {
+                    "id": 35,
+                    "question": "Ordering the believers to fear Allah, hold firmly to His rope, remember His favors in unifying them, and urging them to continually enjoin the right and forbid the wrong. ",
+                    "ayat": "104-102"
+                },
+                {
+                    "id": 36,
+                    "question": "Warning against resembling those who are disunited and dispute regarding the truth, and reminding of the Day of Judgement when bright faces are differentiated from darkened ones. ",
+                    "ayat": "107-105"
+                },
+                {
+                    "id": 37,
+                    "question": "Affirming the truthfulness of the revelation, Allah’s complete justice, His dominion, and confirming our return to Him. ",
+                    "ayat": "109-108"
+                },
+                {
+                    "id": 38,
+                    "question": "The elite quality of the Ummah of Muhammad sallallahu alaihi wa sallam and the factors behind this quality, pitying the people of the book for the consequences of leaving their faith, and showing their weakness, cowardness, disgrace, and Allah’s anger upon them with reasons behind these qualities while excluding the righteous among them. ",
+                    "ayat": "115-110"
+                },
+                {
+                    "id": 39,
+                    "question": "Confirming the punishment of the arrogant disbelievers who brag about their wealth and children, and setting forth a parable regarding their spending. ",
+                    "ayat": "117-116"
+                },
+                {
+                    "id": 40,
+                    "question": "Warning the believers from allying with their enemies, and giving reasons for this warning. ",
+                    "ayat": "120-118"
+                },
+                {
+                    "id": 41,
+                    "question": "Militarily: The Prophet ﷺ’s organization of the army, and mentioning the intention of two groups in returning with the hypocrites. ",
+                    "ayat": "122-121"
+                },
+                {
+                    "id": 42,
+                    "question": "Psychologically: Putting the believers’ fears to rest by reminding them of the victory at Badr and the promises it entitled of support and provision, showing the wisdom in that, and Allah’s executive will of punishment and forgiveness. ",
+                    "ayat": "129-123"
+                },
+                {
+                    "id": 43,
+                    "question": "Spiritually: Adopting the means to reach victory: abandoning usury/interest, having taqwa, obedience, hastening to forgiveness and paradise; mentioning the characteristics of its inhabitants, and the reward of those who work for it. ",
+                    "ayat": "136-130"
+                },
+                {
+                    "id": 44,
+                    "question": "First comforting: inviting the believers to take lessons from Allah’s sunnah of dealing with the deniers as guidance to the muttaqeen. ",
+                    "ayat": "138-137"
+                },
+                {
+                    "id": 45,
+                    "question": "Second comforting: Forbidding them from weakness and sadness, confirming their superiority, consoling them regarding what has afflicted them of wounds and killings, and showing the wisdom of that. ",
+                    "ayat": "142-139"
+                },
+                {
+                    "id": 46,
+                    "question": "First reproaching: regarding their stance towards fighting after wishing for it. ",
+                    "ayat": "143"
+                },
+                {
+                    "id": 47,
+                    "question": "Second reproaching: regarding their stance following the rumor that the Prophet was killed. ",
+                    "ayat": "144"
+                },
+                {
+                    "id": 48,
+                    "question": "Third reproaching: regarding fearing death; reminding them that moments of death are in Allah’s hands alone, exhorting them to choose the Hereafter over this life, reminding the believers of the example those who followed the prophets in being patient and supplicating during fighting, and the reward they received. ",
+                    "ayat": "148-145"
+                },
+                {
+                    "id": 49,
+                    "question": "First Reminder: the danger of obeying the disbelievers, promising the protection of Allah and His support through inflicting terror in the hearts of the disbelievers.",
+                    "ayat": "151-149"
+                },
+                {
+                    "id": 50,
+                    "question": "Second Reminder: Allah’s promise of victory for them and their dispute and disobedience thereafter, and the appreciation of Allah’s grace in testing them and then forgiving them, and His bounties upon them. ",
+                    "ayat": "152"
+                },
+                {
+                    "id": 51,
+                    "question": "Third Reminder: the Prophet ﷺ’s calling out to them during the battle, and the appreciation of His favor when distress was followed by security for the believers, and the disbelievers’ ill assumption followed by the emergence of the truth. ",
+                    "ayat": "154-153"
+                },
+                {
+                    "id": 52,
+                    "question": "Confirming the hidden reason behind the outcome; Shaitan’s allurement of the deserters (those turning away), and the appreciation of Allah’s forgiveness of them. ",
+                    "ayat": "155"
+                },
+                {
+                    "id": 53,
+                    "question": "Warning the believers against imitating the disbelievers’ attitude towards death and killing by declaring that Allah is The Life-Giver and The Life-Taker, exhorting believers to prefer Allah’s mercy and gathering to Him.",
+                    "ayat": "158-156"
+                },
+                {
+                    "id": 54,
+                    "question": "Praising the Prophet ﷺ for his leadership and manners, and urging him to forgive them, consult with them, and rely on Allah; exonerating the Prophet ﷺ from any accusations of betrayal. ",
+                    "ayat": "161-159"
+                },
+                {
+                    "id": 55,
+                    "question": "Distinguishing between the status of those who pursue the pleasure of Allah and those who bring upon themselves His anger. ",
+                    "ayat": "163-162"
+                },
+                {
+                    "id": 56,
+                    "question": "Reminder of Allah’s grace upon the believers by sending, from among them, the Prophet ﷺ, and showing the reasons behind the catastrophe of the believers on the day of ‘Uhud, exposing the hypocrites’ saying and replying to them. ",
+                    "ayat": "168-164"
+                },
+                {
+                    "id": 57,
+                    "question": "The superiority of martyrs and their status.",
+                    "ayat": "171-169"
+                },
+                {
+                    "id": 58,
+                    "question": "The Battle of Hamraa’ Al-Asad, praising the believers for answering its call, and showing the source of fear.  ",
+                    "ayat": "175-172"
+                },
+                {
+                    "id": 59,
+                    "question": "Do not be saddened by disbelief because it will not harm Allah in any way, rather it is a great and painful punishment for the disbelievers. ",
+                    "ayat": "177-176"
+                },
+                {
+                    "id": 60,
+                    "question": "Of the outcomes of the battle; giving the disbelievers time until they end with a humiliating punishment, differentiating between evil and the good, and a great reward for the believers. ",
+                    "ayat": "179-178"
+                },
+                {
+                    "id": 61,
+                    "question": "Condemming stinginess, warning of the consequence for those who withold Zakaah, threatening the Jews who attributed poverty to Allah and killed their prophets, and showing their rightful punishment. ",
+                    "ayat": "182-180"
+                },
+                {
+                    "id": 62,
+                    "question": "Exposing the stubbornness of the Jews, their lies in demanding an offering signifying the truthfulness of the message, and comforting the Prophet ﷺ regarding the lies he encountered. ",
+                    "ayat": "184-183"
+                },
+                {
+                    "id": 63,
+                    "question": "Showing the inevitability of death and recompense, and the truthfulness of victory and life. ",
+                    "ayat": "185"
+                },
+                {
+                    "id": 64,
+                    "question": "The inevitability of tribulations in one’s self, wealth, and religion, and the motivation to be patient and pious.",
+                    "ayat": "186"
+                },
+                {
+                    "id": 65,
+                    "question": "Condemning the people of the Scriptures for dishonoring Allah’s covenant. ",
+                    "ayat": "187"
+                },
+                {
+                    "id": 66,
+                    "question": "Condemning the people of the Scriptures and the hypocrites for being happy regarding their lies and deception, and confirming their entitlement to a painful punishment, and threatening them with Allah’s dominion and power. ",
+                    "ayat": "189-188"
+                },
+                {
+                    "id": 67,
+                    "question": "A lesson learned, by those who understand, from the creation of the heavens and the earth, their status regarding remembrance, deliberation, supplication, Allah’s acceptance of them, and detailing their reward with Him. ",
+                    "ayat": "195-190"
+                },
+                {
+                    "id": 68,
+                    "question": "The reality of the disbelievers’ movement/change throughout the land and their punishment, the status of the righteous, and praising the believers amongst the people of the Scriptures. ",
+                    "ayat": "199-196"
+                },
+                {
+                    "id": 69,
+                    "question": "Conclusion: An everlasting Wassiyah (advice); patience, perseverance, being stationed, and fear of Allah all lead to success. ",
+                    "ayat": "200"
                 }
             ]
         },     
@@ -3863,11 +4793,321 @@
         },
         {
             "sura":"المائدة",
-            "questions":  [
+            "questions": [
                 {
                     "id": 1,
-                    "question": "Work in Progress… Come back later for questions",
-                    "ayat": " "
+                    "question": "An order to fulfill contracts/obligations, declaring the lawfulness of grazing livestock, with an exception of what will be declared as forbidden, and forbidding hunting for the Muhrim (a person in the state of Ihraam). ",
+                    "ayat": "1"
+                },
+                {
+                    "id": 2,
+                    "question": "Warning against violating Allah’s sacred rites; the permissibility of hunting after exiting Ihraam; forbidding transgression, and cooperating with one another in good, fearing Allah who is severe in punishment.  ",
+                    "ayat": "2"
+                },
+                {
+                    "id": 3,
+                    "question": "The types of grazing livestock that are forbidden to consume; the disbelievers’ abandoning all hope that the believers will abandon their religion, the perfection of the religion, and lifting the restriction on consuming forbidden foods for those in distress.  ",
+                    "ayat": "3"
+                },
+                {
+                    "id": 4,
+                    "question": "Answers regarding things that are lawful: assuring the lawfulness of all good things; declaring that the food of the People of the Scripture is lawful, as is marriage to chaste women of the believers and of the People of the Scripture.  ",
+                    "ayat": " 5-4"
+                },
+                {
+                    "id": 5,
+                    "question": "The Ayah of Wudou’ (ablution), applying the legislation for the benefit of the servants of Allah, reminding them of Allah’s favors and His covenant, and ordering them to fear Allah. ",
+                    "ayat": " 7-6"
+                },
+                {
+                    "id": 6,
+                    "question": "Advising the believers to stand firm for Allah and to be just while bearing witness even with enemies, seeking to attain Taqwa (fear of Allah).",
+                    "ayat": "8"
+                },
+                {
+                    "id": 7,
+                    "question": "Commentary regarding the legislations: Promising the believers forgiveness and reward, and threatening the denying disbelievers with Hellfire.",
+                    "ayat": " 10-9"
+                },
+                {
+                    "id": 8,
+                    "question": "1.1. Reminding the believers of the favor of casting terror into the hearts of their enemies.",
+                    "ayat": "11"
+                },
+                {
+                    "id": 9,
+                    "question": "The covenant of Bani Isra’eel (the Israelites), appointing leaders amongst them, Allah’s punishment upon them for breaking the covenant, and exposing their repeated betrayal. ",
+                    "ayat": "13-12"
+                },
+                {
+                    "id": 10,
+                    "question": "1.1. The Christians’ covenant, and Allah’s punishment upon them for abandoning it.",
+                    "ayat": "14"
+                },
+                {
+                    "id": 11,
+                    "question": "Inviting the People of the Scripture to belief in the Prophet ﷺ and the Quran, and highlighting the benefits of guidance. ",
+                    "ayat": "16-15"
+                },
+                {
+                    "id": 12,
+                    "question": "The ruling of disbelief upon the Christians, and discussing, using intellect, the falsity of their belief.",
+                    "ayat": "17"
+                },
+                {
+                    "id": 13,
+                    "question": "One of the claims of the Jews and the Christians, and showing its falsity. ",
+                    "ayat": "18"
+                },
+                {
+                    "id": 14,
+                    "question": "Repeating the invitation to the People of the Scripture to believe in the Prophet ﷺ, and reminding them of the Allah’s great favor of sending him. ",
+                    "ayat": "19"
+                },
+                {
+                    "id": 15,
+                    "question": "The story of Bani Isra’eel’s refusal to go for Jihad with Musa ‘alaihis salam to enter the Holy Land (Palestine), and Allah making them wander in the desert as punishment. ",
+                    "ayat": "26-20"
+                },
+                {
+                    "id": 16,
+                    "question": "The story of Quabeel and Habeel (Abel and Cain), a representation of envy and corruption.  ",
+                    "ayat": "31-27"
+                },
+                {
+                    "id": 17,
+                    "question": "The sanctity of souls/lives, and the transgression of many of Bani Isra’eel on earth. ",
+                    "ayat": "32"
+                },
+                {
+                    "id": 18,
+                    "question": "“Hadd Al-Hirabah” (The penalty of highway robbery/robbery with violence or grand larceny): The permissibility of punishment by execution for a certain type of corruption, the criminal’s punishment in this life and the hereafter, with the exception of those who repent. ",
+                    "ayat": "34-33"
+                },
+                {
+                    "id": 19,
+                    "question": "Advice for the believers: Fearing Allah, seeking nearness to Him, and Jihad (striving in Allah’s way). ",
+                    "ayat": "35"
+                },
+                {
+                    "id": 20,
+                    "question": "Exposing the regret of the disbelievers, and the impossibility of paying ransom or getting out of the punishment.",
+                    "ayat": "37-36"
+                },
+                {
+                    "id": 21,
+                    "question": "The penalty for theft, and forgiving those who repent and reform. ",
+                    "ayat": "39-38"
+                },
+                {
+                    "id": 22,
+                    "question": "The universality of Allah’s dominion, and His power to punish or reward whom He wishes. ",
+                    "ayat": "40"
+                },
+                {
+                    "id": 23,
+                    "question": "Comforting the Prophet ﷺ from the act of the Jews who hasten into disbelief, their deception and falsifications, and showing Allah’s affliction upon them and their punishment. ",
+                    "ayat": "41"
+                },
+                {
+                    "id": 24,
+                    "question": "Condemning the belligerent actions of the Jews, giving the Prophet ﷺ the choice of judging between them or turning away from them, and being astonished in that they ask the Prophet ﷺ to judge between them while turning away from the Torah. ",
+                    "ayat": "43-42"
+                },
+                {
+                    "id": 25,
+                    "question": "Some of the descriptions of the Heavenly Books, the Quran’s abrogation of them, and the obligation to judge by it. ",
+                    "ayat": "45-44"
+                },
+                {
+                    "id": 26,
+                    "question": "Sending ‘Isaa ‘alaihis salam with the Injeel (Gospel), some of its descriptions, and their obligation to judge by it.",
+                    "ayat": "47-46"
+                },
+                {
+                    "id": 27,
+                    "question": "Honoring the Prophet ﷺ by revealing to him the Book, showing some of its descriptions, the obligation to judge by it, warning against following the Jews’ inclinations, and Allah’s Divine decree regarding conflict, trial, and authority. ",
+                    "ayat": "48"
+                },
+                {
+                    "id": 28,
+                    "question": "Emphasizing to the Prophetﷺ the order to judge in accordance with the legislation of the Quran, warning against the temptations of the Jews, showing the reason behind their turning away, and Allah’s scolding of them. ",
+                    "ayat": "50-49"
+                },
+                {
+                    "id": 29,
+                    "question": "Warning the believers against taking the Jews and Christians as their allies/guardians, showing its reason, and the ruling against one who does so. ",
+                    "ayat": "51"
+                },
+                {
+                    "id": 30,
+                    "question": "The hypocrites taking the Jews and Christians as allies/guardians, their reasoning for doing so, threatening those who do so, and the believers’ stance.  ",
+                    "ayat": "53-52"
+                },
+                {
+                    "id": 31,
+                    "question": "Warning the believers against rejecting faith and Allah’s command, threatening them with replacement, explaining the types of true guardianship, and that it is the cause of predominance. ",
+                    "ayat": "56-54"
+                },
+                {
+                    "id": 32,
+                    "question": "Warning the believers against taking the disbelievers who ridicule the religion as allies/guardians, giving the example of their ridicule of the call to prayer. ",
+                    "ayat": "58-57"
+                },
+                {
+                    "id": 33,
+                    "question": "Condemning the People of Scripture for their stubbornness on falsehood and envy, reminding of the ill-doings of those before them, and their disgraceful fate.  ",
+                    "ayat": "60-59"
+                },
+                {
+                    "id": 34,
+                    "question": "Exposing the People of the Scripture’s hypocrisy towards the Muslims.  ",
+                    "ayat": "61"
+                },
+                {
+                    "id": 35,
+                    "question": "Exposing the People of the Scripture’s hastening into falsehood and devouring what is prohibited, and scolding their leaders for not forbidding them from doing so. ",
+                    "ayat": "63-62"
+                },
+                {
+                    "id": 36,
+                    "question": "The extreme disrespect of the Jews who attributed stinginess to Allah, and responding to them.  ",
+                    "ayat": "64"
+                },
+                {
+                    "id": 37,
+                    "question": "The People of the Scripture’s loss of the goodness of both worlds due to abandoning belief and fear of Allah, and not upholding the laws the Torah and the Gospel.  ",
+                    "ayat": "66-65"
+                },
+                {
+                    "id": 38,
+                    "question": "Ordering the Prophet ﷺ to convey the message in its entirety, for Allah will protect him from the disbelievers.",
+                    "ayat": "67"
+                },
+                {
+                    "id": 39,
+                    "question": "Ordering the Prophet ﷺ to confront the People of the Scripture regarding the invalidity of their belief, and exposing their increase in transgression and disbelief.  ",
+                    "ayat": "68"
+                },
+                {
+                    "id": 40,
+                    "question": "The glad-tidings of security and peace on the Day of Judgement to the believers of all faiths who act upon their true belief. ",
+                    "ayat": "69"
+                },
+                {
+                    "id": 41,
+                    "question": "Some of the rebellious acts of the Jews: Breaking the covenant; killing the prophets; being blind and deaf towards truth.",
+                    "ayat": "71-70"
+                },
+                {
+                    "id": 42,
+                    "question": "Some of the rebellious acts of the Christians: Disbelieving by claiming that Allah is Al-Maseeh (the Messiah) even though they were warned from Shirk (Polytheism); and disbelieving by claiming that Allah is the third of three, threatening them with punishment, and inviting them to repent and seek forgiveness.  ",
+                    "ayat": "74-72"
+                },
+                {
+                    "id": 43,
+                    "question": "Declaring the truth about Al-Maseeh and his mother ‘alaihimus-salam, being astonished by the Christians’ abandonment of this reality, and condemning them for worshipping other than Allah.  ",
+                    "ayat": "76-75"
+                },
+                {
+                    "id": 44,
+                    "question": "Allah’s order to the People of the Scripture not to exceed limits in the religion nor follow personal desires. ",
+                    "ayat": "77"
+                },
+                {
+                    "id": 45,
+                    "question": "Cursing Bani Isra’eel, and the reasons they deserved that.  ",
+                    "ayat": "79-78"
+                },
+                {
+                    "id": 46,
+                    "question": "The hypocrites of the Jews taking the disbelievers as allies/guardians, and exposing its reasons. ",
+                    "ayat": "81-80"
+                },
+                {
+                    "id": 47,
+                    "question": "The relationship of the Jews with the believers and the relationship of the Christians with the believers, clarifying its causes, praising their believers, promising them reward, and threatening the denying disbelievers. ",
+                    "ayat": "86-82"
+                },
+                {
+                    "id": 48,
+                    "question": "Forbidding the believers from prohibiting good things that Allah has made lawful, and ordering them to eat from them and to fear Allah.  ",
+                    "ayat": "88-87"
+                },
+                {
+                    "id": 49,
+                    "question": "The rulings of unintentional oaths and intentional oaths and its expiation.   ",
+                    "ayat": "89"
+                },
+                {
+                    "id": 50,
+                    "question": "Prohibiting intoxicants and gambling, and showing their destructive effects on life and religion.  ",
+                    "ayat": "91-90"
+                },
+                {
+                    "id": 51,
+                    "question": "Commanding the obedience to Allah and His messenger ﷺ, warning against turning away from doing so, lifting the blame off the believers concerning what was eaten (in the past) as long as they believe, fear Allah, and do good.  ",
+                    "ayat": "93-92"
+                },
+                {
+                    "id": 52,
+                    "question": "Prohibiting hunting while in the state of Ihraam is a trial for the believers, clarifying its compensation (when violated), warning of Allah’s revenge, lawfulness of the gaming from the sea and its food whether in or out of the state of Ihraam.  ",
+                    "ayat": "96-94"
+                },
+                {
+                    "id": 53,
+                    "question": "The Ka’bah, the sacred months, the sacrificial animals, and the garlands are all great symbols and a source of benefit for the people.  ",
+                    "ayat": "97"
+                },
+                {
+                    "id": 54,
+                    "question": "A reminder of Allah’s punishment and mercy, the duty of the Prophet sallallahu alaihi wa sallam, and a reminder of Allah’s all-encompassing knowledge.  ",
+                    "ayat": "99-98"
+                },
+                {
+                    "id": 55,
+                    "question": "No equality between evil and good; fear of Allah leads to success. ",
+                    "ayat": "100"
+                },
+                {
+                    "id": 56,
+                    "question": "Prohibiting the questioning of what has not been revealed, and clarifying its reason. ",
+                    "ayat": "102-101"
+                },
+                {
+                    "id": 57,
+                    "question": "Abolishing the prohibitions of Jahiliyah (pre-Islamic period of ignorance) regarding cattle, criticizing those who make excuses for imitating their fathers, and strengthening the believers upon guidance.  ",
+                    "ayat": "105-103"
+                },
+                {
+                    "id": 58,
+                    "question": "The rulings of Wasiyah (bequests/inheritance) while traveling.  ",
+                    "ayat": "108-106"
+                },
+                {
+                    "id": 59,
+                    "question": "Warning of the day the Messengers will be asked of their people’s response, and proclaiming their response.",
+                    "ayat": "109"
+                },
+                {
+                    "id": 60,
+                    "question": "Reminding Isa’ ‘alaihis salam of Allah’s favors upon him and his mother.  ",
+                    "ayat": "111-110"
+                },
+                {
+                    "id": 61,
+                    "question": "Mentioning the disciples’ request for sending down a table (spread with food), clarifying their reasoning, ‘Isaa ‘alaihis-salam’s request for it, Allah’s promise regarding its descending, and warning those who disbelieve afterwards. ",
+                    "ayat": "115-112"
+                },
+                {
+                    "id": 62,
+                    "question": "Confronting ‘Isaa ‘alaihis salam with the Christians’ belief regarding him, absolving him from any blame for those who worship him, and the great rewards for those who are truthful. ",
+                    "ayat": "119-116"
+                },
+                {
+                    "id": 63,
+                    "question": "Conclusion: The Universality of Allah’s dominion and His power. ",
+                    "ayat": "120"
                 }
             ]
         }, 
