@@ -17,10 +17,10 @@ $(document).ready(function() {
 
     $.getJSON("data/questions.json", function(json) {
         db = json;
-        $.each(db.topics, function(key, value) {   
+        $.each(db.mahawir, function(key, value) {
             $('#suraNum').append($("<option></option>").attr("value", key).text(value.sura));
         });
-        question_type = db.topics;
+        question_type = db.mahawir;
         setValues();
     });
 
