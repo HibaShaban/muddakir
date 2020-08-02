@@ -2246,6 +2246,196 @@
             ]
         },
         {
+            "sura":"الأنفال",
+            "questions":[
+                {
+                    "id": 1,
+                    "question": "المقدمة:  جواب السائلين عن الأنفال، وثلاث توجيهات لهم، وبيان أوصاف المؤمنين حقَا وجزاؤهم ",
+                    "ayat": "4-1"
+                },
+                {
+                    "id": 2,
+                    "question": "الإخراج لغزوة بدر مع كراهة بعض المؤمنين ومجادلتهم وخوفهم،  ووعدهم بالنصر، ورغبتهم في العير، والحكمة فيما أراده الله ",
+                    "ayat": "8-5"
+                },
+                {
+                    "id": 3,
+                    "question": "الاستغاثة، الاستجابة بالإمداد بالملائكة، والحكمة منه",
+                    "ayat": "10-9"
+                },
+                {
+                    "id": 4,
+                    "question": "غشيان النعاس ونزول المطر وبيان الحكمو منهما ",
+                    "ayat": "11"
+                },
+                {
+                    "id": 5,
+                    "question": "تثبيت الملائكة للمؤمنين، وإلقاء الرعب في قلوب الكفار، وأمر المؤمنين بالإقدام في قتالهم وبيان سببه",
+                    "ayat": "14-12"
+                },
+                {
+                    "id": 6,
+                    "question": "تحذيرٌ وتذكيرٌ ووعيدٌ، تحذير من التولي يوم الزحف، لغير المحترف أو المتحيز، وبيان جزاؤه، وتذكير بمعية الله تقويةً للحق وتوهينَا للباطل، ووعيد الكفار إن استفتحوا أو انتهوا عن الكفر أو عادوا للقتال ",
+                    "ayat": "19-15"
+                },
+                {
+                    "id": 7,
+                    "question": "أمر المؤمنين بطاعة الله ورسوله، والتحذير من التولي عنه ومشابهة المنافقين، وبيان شر الدواب عند الله، والحكمة من صممهم ",
+                    "ayat": "23-20"
+                },
+                {
+                    "id": 8,
+                    "question": "أمرٌ وتهديدٌ وتذكيرٌ للمؤمنين، الأمر بالاستجابة لله والرسول، والتهديد بحول الله بين المرء وقلبه، وبفتنة الناس عامة، والتذكير بنعمة الإيواء والنصر والرزق ",
+                    "ayat": "26-24"
+                },
+                {
+                    "id": 9,
+                    "question": "نهي المؤمنين عن خيانة الله ورسوله والأمانات، والتحذير من الافتتان بالأموال والأولاد ",
+                    "ayat": "28-27"
+                },
+                {
+                    "id": 10,
+                    "question": "ترغيب المؤمنين بالتقوى ببيان ثممراتها ",
+                    "ayat": "29"
+                },
+                {
+                    "id": 11,
+                    "question": "مكر المشركين بالرسول ﷺ، ومكر الله بهم ",
+                    "ayat": "30"
+                },
+                {
+                    "id": 12,
+                    "question": "موقفهم من سماع القرآن ",
+                    "ayat": "31"
+                },
+                {
+                    "id": 13,
+                    "question": "استمطارهم السماء بالعذاب، وبيان سبب تأخيره عنهم، ولزومه لصدهم عن المسجد الحرام ",
+                    "ayat": "34-32"
+                },
+                {
+                    "id": 14,
+                    "question": "إبطال صلاة المكاء والتصدية منهم عند البيت ",
+                    "ayat": "35"
+                },
+                {
+                    "id": 15,
+                    "question": "إنفاقهم الأموال للصد عن سبيل الله وبيان عاقبتهم، وجزاؤهم، والحكمة منه ",
+                    "ayat": "37-36"
+                },
+                {
+                    "id": 16,
+                    "question": "ترغيب الكفار بمغفرة ما سلف بإسلامهم، وتوعد المصرين بسنة الله فيهم ",
+                    "ayat": "38"
+                },
+                {
+                    "id": 17,
+                    "question": " الأمر بقتال الكفار والحكمة منه، وإعلام المؤمنين بولاية الله ونصرهم لهم",
+                    "ayat": "40-39"
+                },
+                {
+                    "id": 18,
+                    "question": "إعلام المؤمنين بكيفية قسمة الغنائم، وأن انفاذها  برهان الإيمان بالله وآياته يوم بدر ",
+                    "ayat": "41"
+                },
+                {
+                    "id": 19,
+                    "question": "بيان أماكن الفريقين يوم بدر، وحكمة الله في التقائهم ",
+                    "ayat": "42"
+                },
+                {
+                    "id": 20,
+                    "question": "تقليل المشركين في رؤيا المنام، دفعا للفشل والتنازع ",
+                    "ayat": "43"
+                },
+                {
+                    "id": 21,
+                    "question": "تقليل كل فريق في عين الآخر في رؤيا اللقاء، والحكمة منه ",
+                    "ayat": "44"
+                },
+                {
+                    "id": 22,
+                    "question": "الثبات وذكر الله كثيرا، وطاعة الله ورسوله، وترك التنازع والتزام الصبر ",
+                    "ayat": "46-45"
+                },
+                {
+                    "id": 23,
+                    "question": "التحذير من مشابهة الكفار في الخروج بطرا ورياء ",
+                    "ayat": "47"
+                },
+                {
+                    "id": 24,
+                    "question": "تزين الشيطان للكفار قتال المؤمنين ووعدهم بالمناصرة، ثم نكوصه وبراءته خوفا من عقاب الله ",
+                    "ayat": "48"
+                },
+                {
+                    "id": 25,
+                    "question": "استخفاف المنافقين بالمسلمين وجهلهم بعاقبة التوكل على الله ",
+                    "ayat": "49"
+                },
+                {
+                    "id": 26,
+                    "question": "حال الكفار عند قبض أرواحهم وبيان سببه، وتشبيه فعالهم ومآلهم بآل فرعون ",
+                    "ayat": "52-50"
+                },
+                {
+                    "id": 27,
+                    "question": "تعليل عذاب الكفار، وسلب نعم الله عنهم وعن أشباههم من آل فرعون ",
+                    "ayat": "54-53"
+                },
+                {
+                    "id": 28,
+                    "question": "ذم الكفار من اليهود الناقضين لعهودهم، والتحريض على قتالهم والتنكيل بهم، ونبذ عهدهم إن خشي خيانته ",
+                    "ayat": "58-55"
+                },
+                {
+                    "id": 29,
+                    "question": "تهديد من حسب من الكفار أنه أفلت من عقاب الله ",
+                    "ayat": "59"
+                },
+                {
+                    "id": 30,
+                    "question": "الأمر بالاستعداد بوسائل القوة إرهابا للأعداء، وجزاء النفقة لذلك ",
+                    "ayat": "60"
+                },
+                {
+                    "id": 31,
+                    "question": "حكم الجنوح إلى السلم، وكفاية الله لنبيه ﷺ خداع المسالمين، وتأييده بالنصر وبالمؤمنين، وقدرته في تأليف قلوبهم ",
+                    "ayat": "63-61"
+                },
+                {
+                    "id": 32,
+                    "question": "تثبيت قلب النبي ﷺ بكفاية الله له وللمؤمنين مطلقا ",
+                    "ayat": "64"
+                },
+                {
+                    "id": 33,
+                    "question": "أمر النبي ﷺ بتحريض المؤمنين على القتال، ومصابرة عشرين منهم لمئتين، ثم التخفيف عنهم وتصبيرهم ",
+                    "ayat": "66-65"
+                },
+                {
+                    "id": 34,
+                    "question": "عتاب النبي ﷺ في أسرى بدر، ثم بيان العفو والمغفرة ",
+                    "ayat": "69-67"
+                },
+                {
+                    "id": 35,
+                    "question": "وعد الأسرى ، ووعيد للخائنين منهم ",
+                    "ayat": "71-70"
+                },
+                {
+                    "id": 36,
+                    "question": "لبعضهم، ومغبة مخالفة هذه الأحكام ",
+                    "ayat": "73-72"
+                },
+                {
+                    "id": 37,
+                    "question": "الخاتمة: الثناء على المؤمنين المهاجرين المجاهدين والأنصار وبيان جزائهم، وإلحاق المهاجرين المجاهدين بعد بهم، ورد المواريث إلى الأرحام ",
+                    "ayat": "75-74"
+                }
+            ]
+        },
+        {            
             "sura":"الرعد",
             "questions":  [
                 {
@@ -3354,6 +3544,16 @@
             ]
         },
         {
+            "sura":"الأنفال",
+            "questions":[
+                {
+                    "id": 1,
+                    "question": "In Porgress...check again later",
+                    "ayat": " "
+                }
+            ]
+        },
+        {    
             "sura":"الرعد",
             "questions": [
                 {
@@ -5707,6 +5907,197 @@
             ]
         },
         {
+            "sura":"الأنفال",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "Introduction: Guidelines regarding the spoils of war; qualities of the true believers & their rewards.",
+                    "ayat": "4-1"
+                },
+                {
+                    "id": 2,
+                    "question": "The wisdom behind their meeting in battle despite the reluctance of some believers to fight.",
+                    "ayat": "8-5"
+                },
+                {
+                    "id": 3,
+                    "question": "Allah’s response to the believers’ call for help with the reinforcement of the angels.",
+                    "ayat": "10-9"
+                },
+                {
+                    "id": 4,
+                    "question": "The wisdom of sleep and rain before battle. ",
+                    "ayat": "11"
+                },
+                {
+                    "id": 5,
+                    "question": "The role of the angels in strengthening the believers and giving the enemy what they deserve. ",
+                    "ayat": "14-12"
+                },
+                {
+                    "id": 6,
+                    "question": "A warning for the believers, a reminder, and a warning for the disbelievers.  Warning the believers against fleeing the battlefield without cause; a reminder of Allah’s support in upholding the truth, and warning the disbelievers to cease hostilities, or return to war.",
+                    "ayat": "19-15"
+                },
+                {
+                    "id": 7,
+                    "question": "Ordering the believers to obey Allah and His messenger, and cautioning them against resembling the worst creatures.",
+                    "ayat": "23-20"
+                },
+                {
+                    "id": 8,
+                    "question": "An order, a warning, and a reminder for the believers. An order to obey Allah and His messenger, a warning of the intervention of Allah between a man and his heart, and a reminder of the blessing of shelter, victory, and provision.",
+                    "ayat": "26-24"
+                },
+                {
+                    "id": 9,
+                    "question": "Prohibiting the believers from treachery, and cautioning them to be aware of the test of wealth and children. ",
+                    "ayat": "28-27"
+                },
+                {
+                    "id": 10,
+                    "question": "Encouraging the believers to strive for Taqwa by showing its benefits.",
+                    "ayat": "29"
+                },
+                {
+                    "id": 11,
+                    "question": "The polytheists’ conspiracy against the Prophet ﷺ and Allah’s plans for them.",
+                    "ayat": "30"
+                },
+                {
+                    "id": 12,
+                    "question": "Their stance when hearing the Quran.",
+                    "ayat": "31"
+                },
+                {
+                    "id": 13,
+                    "question": "Their challenge to Allah, and their false guardianship of Al-Masjid Al-Haraam.",
+                    "ayat": "34-32"
+                },
+                {
+                    "id": 14,
+                    "question": " Invalidating their clapping and whistling while in prayer at the House.",
+                    "ayat": "35"
+                },
+                {
+                    "id": 15,
+                    "question": "Spending their wealth to oppose Allah, and warning of their fate.",
+                    "ayat": "37-36"
+                },
+                {
+                    "id": 16,
+                    "question": "Encouraging the disbelievers with forgiveness if they enter Islam, and a warning of destruction if they persist in their ways. ",
+                    "ayat": "38"
+                },
+                {
+                    "id": 17,
+                    "question": "Exhorting the believers to continue fighting until the goals are achieved and a promise of Allah’s protection and assistance.",
+                    "ayat": "40-39"
+                },
+                {
+                    "id": 18,
+                    "question": "Rules concerning distributing the spoils of war, and informing believers that submission to those rules is a proof of belief in Allah and His Ayaat/signs.",
+                    "ayat": "41"
+                },
+                {
+                    "id": 19,
+                    "question": "Describing the locations of both sides on the day of Badr, and Allah’s wisdom in their meeting for battle.",
+                    "ayat": "42"
+                },
+                {
+                    "id": 20,
+                    "question": "Downplaying the number of disbelievers in the dreams of believers, as a means to boost morale.",
+                    "ayat": "43"
+                },
+                {
+                    "id": 21,
+                    "question": "Making each side appear fewer to the opposition when meeting in the battle, and the wisdom behind that.",
+                    "ayat": "44"
+                },
+                {
+                    "id": 22,
+                    "question": "Standing firm, remembering Allah often, obeying Allah and His Messenger, abandoning dispute and observing patience.",
+                    "ayat": "46-45"
+                },
+                {
+                    "id": 23,
+                    "question": "Warning against setting off to war arrogantly and boasting like the disbelievers.",
+                    "ayat": "47"
+                },
+                {
+                    "id": 24,
+                    "question": "Shaitan’s incitement and treachery, claiming his fear of Allah’s punishment. ",
+                    "ayat": "48"
+                },
+                {
+                    "id": 25,
+                    "question": "Exposing the hypocrites’ sickness and their ignorance of the fruits of relying on Allah.",
+                    "ayat": "49"
+                },
+                {
+                    "id": 26,
+                    "question": "The disbelievers’ treatment by the angels when taking their souls, its justification, and likening their actions and fate to the people of Fir’awn.",
+                    "ayat": "52-50"
+                },
+                {
+                    "id": 27,
+                    "question": "Explaining why the disbelievers deserved Allah’s favor to be removed from them, similar to the people of Fir’awn.",
+                    "ayat": "54-53"
+                },
+                {
+                    "id": 28,
+                    "question": "Condemning those who break their treaties, urging the believers to make a fearful example of them as a deterrence for others, and permission to nullify treaties that have been broken.",
+                    "ayat": "58-55"
+                },
+                {
+                    "id": 29,
+                    "question": "Warning those disbelievers who think they can escape Allah’s punishment.",
+                    "ayat": "59"
+                },
+                {
+                    "id": 30,
+                    "question": "An order to prepare all means of strength in order to terrify the enemy, and the reward of spending in that cause.",
+                    "ayat": "60"
+                },
+                {
+                    "id": 31,
+                    "question": "The encouragement to reciprocate peace initiatives, to trust in Allah’s promise of His help if the enemy’s intent is treacherous, and to remember how Allah united the believers against all odds. ",
+                    "ayat": "63-61"
+                },
+                {
+                    "id": 32,
+                    "question": "Keeping the Prophet’s heart firm with His absolute support for him and for the believers.",
+                    "ayat": "64"
+                },
+                {
+                    "id": 33,
+                    "question": "Ordering the Prophet ﷺ to urge the believers to battle, the encouragement that twenty of them can overcome an army of two hundred, followed by a lowering of the maximum number of enemy soldiers Muslims are required to face, and comforting them.",
+                    "ayat": "66-65"
+                },
+                {
+                    "id": 34,
+                    "question": "Reproaching the Prophet ﷺ regarding the captives of Badr, followed by pardon and forgiveness.",
+                    "ayat": "69-67"
+                },
+                {
+                    "id": 35,
+                    "question": "A promise to the captives, and warning the betrayers amongst them.",
+                    "ayat": "71-70"
+                },
+                {
+                    "id": 36,
+                    "question": "Affirming the allegiance between the Muhajireen and the Ansaar; excluding those who believed but did not migrate from protective alliance; the rulings of seeking protection from each other; the alliance amongst the disbelievers; the consequences of disloyalty.",
+                    "ayat": "73-72"
+                },
+                {
+                    "id": 37,
+                    "question": "Conclusion: Praising the Muhajireen and the Ansaar, promising them a great reward, and associating those who emigrated and fought later on with them, and restoring inheritance to the blood relatives (i.e. abrogation of inheriting due to brotherhood of faith).",
+                    "ayat": "75-74"
+                }
+            ]
+            
+        },
+        {            
             "sura":"الرعد",
             "questions":  [
                 {
