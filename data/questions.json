@@ -2631,6 +2631,306 @@
             ]
         },
         {
+            "sura":"التوبة",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "براءة الله ورسوله من عهود المشركين، وإمهالهم أربعة أشهر، وإعلامهم بذلك يوم النّحر ودعوتهم إلى التّوبة، وتهديد المتولّين، واستثناء من وفى بعهده من البراءة ",
+                    "ayat": " 4 - 1"
+                },
+                {
+                    "id": 2,
+                    "question": "الأمر بقتال المشركين بعد انقضاء المدّة، وتخلية سبيل من تاب، وحكم إجارة ",
+                    "ayat": " 6 - 5"
+                },
+                {
+                    "id": 3,
+                    "question": "استحالة المعاهدة مع المشركين، واستثناء عهد الحديبيّة، وبيان أسباب هذه الاستحالة، وحكم التّائبين منهم، والأمر بقتال الناكثين، وبيان أسبابه ",
+                    "ayat": "13 - 7"
+                },
+                {
+                    "id": 4,
+                    "question": "فوائد قتال الكفّار، وأنّ تحرير الولاية لله من حكم الجهاد ",
+                    "ayat": "16 - 14"
+                },
+                {
+                    "id": 5,
+                    "question": "منع المشركين من عمارة مساجد الله، وحبوط أعمالهم، وحصر عمارتها بالمؤمنين المهتدين",
+                    "ayat": "18 - 17"
+                },
+                {
+                    "id": 6,
+                    "question": "نفي المساواة بين السّقاية والعمارة وبين الإيمان والجهاد، وبيان جزاء المؤمنين المهاجرين المجاهدين ",
+                    "ayat": "22 - 19"
+                },
+                {
+                    "id": 7,
+                    "question": "نهي المؤمنين عن موالاة آبائهم وإخوانهم من الكفّار، وتهديد من آثر حبّ الدنيا على الله ورسوله والجهاد في سبيله ",
+                    "ayat": "24 - 23"
+                },
+                {
+                    "id": 8,
+                    "question": "تذكير المؤمنين بنصر الله لهم، وتصوير حالهم يوم حنين وما تمّ من نصر الله لهم، وتوبته على من يشاء ",
+                    "ayat": "27 - 25"
+                },
+                {
+                    "id": 9,
+                    "question": "نجاسة المشركين، وتحريم دخولهم المسجد الحرام، ووعد المؤمنين بالغنى عنهم ",
+                    "ayat": "28"
+                },
+                {
+                    "id": 10,
+                    "question": "التّحريض على قتال أهل الكتاب ببيان أسبابه، وضرب الجزية عليهم ",
+                    "ayat": "29"
+                },
+                {
+                    "id": 11,
+                    "question": "أقوال اليهود والنّصارى الباطلة، وغلوّهم في أحبارهم ورهبانهم وتأليههم للمسيح، وسعيهم في إبطال دين الله، والبشارة بإتمامه وظهوره وأمارة ذلك ",
+                    "ayat": "32 - 30"
+                },
+                {
+                    "id": 12,
+                    "question": "تحذير المؤمنين من الأحبار والرّهبان بفضح طمعهم في أموال النّاس، وتوعد مانعي الزّكاة وتفصيل عذابهم ",
+                    "ayat": "35 - 34"
+                },
+                {
+                    "id": 13,
+                    "question": "بيان السّنة الشّرعيّة، والأمر بقتال المشركين كافّة، وإبطال النّسيء وبيان حقيقته ",
+                    "ayat": "37 - 36"
+                },
+                {
+                    "id": 14,
+                    "question": "عتاب المؤمنين على تباطوئهم في الجهاد ببيان حقيقة الدّنيا، وتهديدهم بالعذاب والاستبدال إن لم ينفروا، وتأكيد نصر الله لنبيه كما نصره وصاحبه في الغار ",
+                    "ayat": "40 - 38"
+                },
+                {
+                    "id": 15,
+                    "question": "النّفير العام للجهاد بالأموال والأنفس ",
+                    "ayat": "41"
+                },
+                {
+                    "id": 16,
+                    "question": "من أسباب امتناع المنافقين عن الخروج، والإخبار عن تعلّلهم بالحلف الكاذب على عدم الاستطاعة ",
+                    "ayat": "42"
+                },
+                {
+                    "id": 17,
+                    "question": "عتاب النّبيّ ﷺ لإذنه للمنافقين في القعود عن الجهاد قبل تبيّن صدقهم، وأنّ الاستئذان لذلك ليس من سيما المؤمنين، وإنّما هو من فعال المنافقين ",
+                    "ayat": "45 - 43"
+                },
+                {
+                    "id": 18,
+                    "question": "من أدلّة عدم إرادتهم الخروج، وبيان كراهة الله لخروجهم وتثبيطه لهم، ومفاسد خروجهم مع المسلمين، والتّذكير بحرصهم على فتنتهم يوم أحد ",
+                    "ayat": "48 - 46"
+                },
+                {
+                    "id": 19,
+                    "question": "طلبهم الإذن خشية الفتنة، والردّ عليهم ",
+                    "ayat": "49"
+                },
+                {
+                    "id": 20,
+                    "question": "من قبائحهم: بيان مسائتهم بنصر المسلمين وفرحهم بمصائبهم، والردّ عليهم بتمام تسليم المؤمنين وتوكّلهم على ربّهم، وأنّ عاقبتهم إحدى الحسنيين، وأنّهم يتربّصون بالمنافقين العذاب ",
+                    "ayat": "52 - 50"
+                },
+                {
+                    "id": 21,
+                    "question": "من قبائحهم: قبائح توجب ردّ نفقاتهم، والتّحذير من الاعجاب بأموالهم وأولادهم لأنّها سبب عذابهم في الدّنيا ",
+                    "ayat": "55 - 53"
+                },
+                {
+                    "id": 22,
+                    "question": "من قبائحهم: حلفهم بالله أنّهم مسلمون، والردّ بنفي ذلك وبيان جبنهم، وحرصهم على ملاذ آمن ",
+                    "ayat": "57 - 56"
+                },
+                {
+                    "id": 23,
+                    "question": "من قبائحهم: لمزهم الرّسول ﷺ في الصّدقات، والردّ عليهم، بأنّ الأولى لهم الرّضا والرّغبة في فضل الله، وبيان مصارف الصّدقات ",
+                    "ayat": "60 -58"
+                },
+                {
+                    "id": 24,
+                    "question": "من قبائحهم: إيذاء النّبيّ، وقولهم عنه \"أذن\"، والردّ عليهم بأنّه سمّاع خير، وهو رحمة للمؤمنين، وتوعّدهم بالعذاب الأليم ",
+                    "ayat": "61"
+                },
+                {
+                    "id": 25,
+                    "question": "من قبائحهم: حلفهم كذبا لإرضاء المسلمين، والرّدّ عليهم بأنّ الله ورسوله أحقّ بالإرضاء، وببيان عاقبة من يحاددهما ",
+                    "ayat": "63 - 62"
+                },
+                {
+                    "id": 26,
+                    "question": "من قبائحهم: حذرهم من نزول سورة تخرج ما في قلوبهم، والرّدّ عليهم بإمهالهم، وتهديدهم ",
+                    "ayat": "64"
+                },
+                {
+                    "id": 27,
+                    "question": "من قبائحهم: تعذرهم بالخوض واللّعب، والرّدّ عليهم، وبتوبيخهم على استهزائهم، ورفض معذرتهم، والحكم بكفرهم، والعفو عن التّائبين، والعذاب للمجرمين ",
+                    "ayat": "66 - 65"
+                },
+                {
+                    "id": 28,
+                    "question": "من قبائحهم: توافقهم ذكورا وإناثا في أحوال النّفاق، وبيان أصول قبائحهم، وجزاؤهم الآخرويّ ",
+                    "ayat": "68 - 67"
+                },
+                {
+                    "id": 29,
+                    "question": "من قبائحهم: مشابهتهم لمن قبلهم من الأمم في الاستمتاع والخوض، وتوبيخهم على عدم الاعتبار بأنبائهم ",
+                    "ayat": "70 - 69"
+                },
+                {
+                    "id": 30,
+                    "question": "التّعقيب ببيان ولاية المؤمنين والمؤمنات لبعضهم، ووصفهم بنقيض صفات المنافقين، وجزاؤهم ",
+                    "ayat": "72 - 71"
+                },
+                {
+                    "id": 31,
+                    "question": "أمر النّبيّ ﷺ بجهاد الكفّار والمنافقين والغلظة عليهم ",
+                    "ayat": "73"
+                },
+                {
+                    "id": 32,
+                    "question": "من معاذيرهم: حلفهم لإنكار مقالات الكفر، والرّدّ عليهم بتأكيد مقالتهم، وكفرهم، وهمّهم بالسّوء، ونقمتهم على المسلمين ووعد التّائبين وتوعّد المتولّين منهم ",
+                    "ayat": "74"
+                },
+                {
+                    "id": 33,
+                    "question": "من معاذيرهم: معاهدتهم الله على الصّدقة إن أغناهم، ثمّ بخلهم وتوليهم وإعراضهم، وعقوبة الله لهم، وتوبيخهم لجهلهم بعلم الله للغيوب، ولمزهم المؤمنين في صدقاتهم وسخريتهم منهم، وجزاؤهم، وحرمانهم من المغفرة باستغفار الرّسول ﷺ وسبب ذلك ",
+                    "ayat": "80 - 75"
+                },
+                {
+                    "id": 34,
+                    "question": "من مواقف المنافقين: فرحهم بالقعود عن الجهاد وكرههم له وتثبيطهم لبعضهم بعلّة الحرّ، والرّد عليهم بتوعدهم بالجزاء، وجملة من التّوجيهات للنّبيّ ﷺ في تعامله معهم في حياتهم ومماتهم ومعاشهم ",
+                    "ayat": "85 - 81"
+                },
+                {
+                    "id": 35,
+                    "question": "من مواقف المنافقين: عند نزول سورة تأمر بالإيمان والجهاد يستأذن القادرون منهم للقعود، ويرضون بالذّلّة على خلاف المؤمنين المجاهدين، والثّناء عليهم وبيان ما أعدّ لهم من جزاء",
+                    "ayat": "89 - 86"
+                },
+                {
+                    "id": 36,
+                    "question": "استئذان أصحاب الأعذار من الأعراب، وقعود المنافقين منهم، وتوعّدهم بالعذاب ",
+                    "ayat": "90"
+                },
+                {
+                    "id": 37,
+                    "question": "بيان أصناف المعذورين من الجهاد، واللّوم والعقاب لمن يستأذن مع القدرة ويرضى بالذّلّة ",
+                    "ayat": "93 - 91"
+                },
+                {
+                    "id": 38,
+                    "question": "الإخبار بأنّ المنافقين سيعتذرون للمؤمنين بعد رجوعهم والرّدّ عليهم ",
+                    "ayat": "94"
+                },
+                {
+                    "id": 39,
+                    "question": "الإخبار بأنّهم سيؤكّدون أعذارهم بالأيمان الفاجرة، وأمر المؤمنين بالإعراض عنهم، وبيان جزائهم ",
+                    "ayat": "95"
+                },
+                {
+                    "id": 40,
+                    "question": "بيان سبب حلفهم، وتحذير المسلمين من الرضى عنهم ",
+                    "ayat": "97 - 96"
+                },
+                {
+                    "id": 41,
+                    "question": "كفّار الأعراب ومنافقيهم وبيان جهلهم، وحقيقة نفقاتهم وحسدهم للمسلمين ",
+                    "ayat": "98"
+                },
+                {
+                    "id": 42,
+                    "question": "مؤمنوا الأعراب، إيمانهم، ونفقاتهم، وجزاؤهم ",
+                    "ayat": "99"
+                },
+                {
+                    "id": 43,
+                    "question": "المهاجرون والأنصار ومن اتبعهم؛ رضا الله عنهم، ورضاهم عنه، وجزاؤهم ",
+                    "ayat": "100"
+                },
+                {
+                    "id": 44,
+                    "question": "منافقو الأعراب والمدينة المتمردون فيه، علم الله بهم، وتوعّدهم بعذاب الدّنيا والآخرة ",
+                    "ayat": "101"
+                },
+                {
+                    "id": 45,
+                    "question": "المعترفون بذنوبهم في تخلّفهم عن رسول الله ﷺ ، وحكم الله فيهم، وأمر النّبيّ ﷺ  بقبول صدقاتهم والاستغفار لهم والتّنبيه إلى أنّ قبول التّوبة والصّدقات لله وحده والأمر بإخلاص العمل لله تعالى ",
+                    "ayat": "105 - 102"
+                },
+                {
+                    "id": 46,
+                    "question": "من لم يعتذر لله تعالى أمره مرجى لأمر الله الله تعالى ",
+                    "ayat": "106"
+                },
+                {
+                    "id": 47,
+                    "question": "بناء المنافقين لمسجد الضّرار وأهدافه وشهادة الله بكذبهم ",
+                    "ayat": "107"
+                },
+                {
+                    "id": 48,
+                    "question": "نهي النّبيّ ﷺ عن الصّلاة فيه، وتكريم مسجد قباء ورواده ",
+                    "ayat": "108"
+                },
+                {
+                    "id": 49,
+                    "question": "المفارقة بين أساس التّقوى وأساس النّفاق، وبيان أثر بناء مسجد الضّرار على المنافقين في الدّنيا والآخرة ",
+                    "ayat": "110 - 109"
+                },
+                {
+                    "id": 50,
+                    "question": "شراء وبيع بين الله والمجاهدين، ووعد وبشارة بالفوز العظيم والثّناء على المؤمنين بثمانية أوصاف ",
+                    "ayat": "112 - 111"
+                },
+                {
+                    "id": 51,
+                    "question": "منع النّبيّ ﷺ والمؤمنين من الاستغفار للمشركين وبيان وجه استغفار إبراهيم والثّناء عليه",
+                    "ayat": "114 - 113"
+                },
+                {
+                    "id": 52,
+                    "question": "امتناع إضلال الله لقوم حتى يبين لهم، وبيان علم الله وملكه وقدرته ونصرته ",
+                    "ayat": "116 - 115"
+                },
+                {
+                    "id": 53,
+                    "question": "توبة الله على النّبيّ ﷺ والمهاجرين والأنصار ممن اتبعه في غزوة تبوك، وعلى الثّلاثة الّذين خلفوا ، وتوجيه المؤمنين إلى التّقوى والصّدق ",
+                    "ayat": "119 - 117"
+                },
+                {
+                    "id": 54,
+                    "question": "منع التّخلّف عن رسول الله ﷺ، وأسباب ذلك ",
+                    "ayat": "121 - 120"
+                },
+                {
+                    "id": 55,
+                    "question": "منع نفير المؤمنين كافّة، والحثّ على نفور طوائف من المسلمين للتّفقّه والإنذار ",
+                    "ayat": "122"
+                },
+                {
+                    "id": 56,
+                    "question": "أمر المؤمنين بقتال الكفّار الأقرب فالأقرب والغلظة عليهم ",
+                    "ayat": "123"
+                },
+                {
+                    "id": 57,
+                    "question": "أقوال المنافقين عند نزول سور القرآن، وأثر نزولها على المؤمنين والمنافقين، وتربيخ المنافقين لعدم توبتهم واتّعاظهم بعد فتنتهم ",
+                    "ayat": "126 - 124"
+                },
+                {
+                    "id": 58,
+                    "question": "أفعال المنافقين عند نزول سور القرآن، والدّعاء عليهم لعدم فقههم ",
+                    "ayat": "127"
+                },
+                {
+                    "id": 59,
+                    "question": "الخاتمة: المنّة بإرسال الرّسول ﷺ ووصفه بخمس أوصاف، وتثبيته في وجه المتولّين",
+                    "ayat": "129 - 128"
+                }
+            ]            
+        },
+        {
             "sura":"الحجر",
             "questions": [
                 {
@@ -3548,10 +3848,190 @@
             "questions":[
                 {
                     "id": 1,
-                    "question": "In Porgress...check again later",
-                    "ayat": " "
+                    "question": "يَسْأَلُونَكَ عَنِ الأَنفَالِ...لَّهُمْ دَرَجَاتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+                    "ayat": " 4 - 1"
+                },
+                {
+                    "id": 2,
+                    "question": "كَمَا أَخْرَجَكَ رَبُّكَ مِن بَيْتِكَ بِالْحَقِّ...ذلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَافِرِينَ عَذَابَ النَّارِ",
+                    "ayat": "14 - 5"
+                },
+                {
+                    "id": 3,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا لَقِيتُمُ الَّذِينَ كَفَرُواْ زَحْفاً...وَلَن تُغْنِيَ عَنكُمْ فِئَتُكُمْ شَيْئًا وَلَوْ كَثُرَتْ وَأَنَّ اللَّهَ مَعَ الْمُؤْمِنِينَ",
+                    "ayat": "19 - 15"
+                },
+                {
+                    "id": 4,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ أَطِيعُواْ اللَّهَ وَرَسُولَهُ...وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوْا وَّهُم مُّعْرِضُونَ",
+                    "ayat": "23 - 16"
+                },
+                {
+                    "id": 5,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ اسْتَجِيبُواْ لِلَّهِ وَلِلرَّسُولِ...وَرَزَقَكُم مِّنَ الطَّيِّبَاتِ لَعَلَّكُمْ تَشْكُرُونَ",
+                    "ayat": "26 - 17"
+                },
+                {
+                    "id": 6,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَخُونُواْ اللَّهَ وَالرَّسُولَ...وَيَغْفِرْ لَكُمْ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+                    "ayat": "29 - 27"
+                },
+                {
+                    "id": 7,
+                    "question": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُواْ لِيُثْبِتُوكَ...فَذُوقُواْ الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+                    "ayat": "35 - 28"
+                },
+                {
+                    "id": 8,
+                    "question": "إِنَّ الَّذِينَ كَفَرُواْ يُنفِقُونَ أَمْوَالَهُمْ لِيَصُدُّواْ عَن سَبِيلِ اللَّهِ...نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ",
+                    "ayat": "40 - 36"
+                },
+                {
+                    "id": 9,
+                    "question": "وَاعْلَمُواْ أَنَّمَا غَنِمْتُم مِّن شَيْءٍ...وَإِلَى اللَّهِ تُرْجَعُ الأُمُورُ",
+                    "ayat": "44 - 41"
+                },
+                {
+                    "id": 10,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا لَقِيتُمْ فِئَةً...وَاللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ",
+                    "ayat": "47 - 45"
+                },
+                {
+                    "id": 11,
+                    "question": "وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ...وكلٌّ كَانُواْ ظَالِمِينَ",
+                    "ayat": "54 - 48"
+                },
+                {
+                    "id": 12,
+                    "question": "إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الَّذِينَ كَفَرُواْ...وَلَكِنَّ اللَّهَ أَلَّفَ بَيْنَهُمْ إِنَّهُ عَزِيزٌ حَكِيمٌ",
+                    "ayat": "63 - 55"
+                },
+                {
+                    "id": 13,
+                    "question": "يَا أَيُّهَا النَّبِيُّ حَسْبُكَ اللَّهُ...حَلالاً طَيِّبًا وَاتَّقُواْ اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+                    "ayat": "69 - 64"
+                },
+                {
+                    "id": 14,
+                    "question": "يَا أَيُّهَا النَّبِيُّ قُل لِّمَن فِي أَيْدِيكُم...فَأَمْكَنَ مِنْهُمْ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+                    "ayat": "71 - 70"
+                },
+                {
+                    "id": 15,
+                    "question": "إِنَّ الَّذِينَ آمَنُواْ وَهَاجَرُواْ وَجَاهَدُواْ بِأَمْوَالِهِمْ...وَأُوْلُواْ الأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+                    "ayat": "75 - 72"
                 }
-            ]
+            ]            
+        },
+        {
+            "sura":"التوبة",
+            "questions": [
+                {
+                    "id": 1,
+                    "question": "بَرَاءَةٌ مِّنَ اللَّهِ وَرَسُولِهِ...ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَلِكَ بِأَنَّهُمْ قَوْمٌ لاَّ يَعْلَمُونَ",
+                    "ayat": " 6 - 1"
+                },
+                {
+                    "id": 2,
+                    "question": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ...وَنُفَصِّلُ الآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+                    "ayat": " 11 - 7"
+                },
+                {
+                    "id": 3,
+                    "question": "وَإِن نَّكَثُواْ أَيْمَانَهُم مِّن بَعْدِ عَهْدِهِمْ...وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+                    "ayat": "16 - 12"
+                },
+                {
+                    "id": 4,
+                    "question": "مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُواْ مَسَاجِدَ اللَّه...إِنَّ اللَّهَ عِندَهُ أَجْرٌ عَظِيمٌ",
+                    "ayat": "22 - 17"
+                },
+                {
+                    "id": 5,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ لاَ تَتَّخِذُواْ آبَاءَكُمْ...ثُمَّ يَتُوبُ اللَّهُ مِن بَعْدِ ذَلِكَ عَلَى مَن يَشَاء وَاللَّهُ غَفُورٌ رَّحِيمٌ",
+                    "ayat": "27 - 23"
+                },
+                {
+                    "id": 6,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّمَا الْمُشْرِكُونَ نَجَسٌ...لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ",
+                    "ayat": "33 - 28"
+                },
+                {
+                    "id": 7,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ إِنَّ كَثِيرًا مِّنَ الأَحْبَارِ وَالرُّهْبَانِ...زُيِّنَ لَهُمْ سُوءُ أَعْمَالِهِمْ وَاللَّهُ لاَ يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+                    "ayat": "37 - 34"
+                },
+                {
+                    "id": 8,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُواْ فِي سَبِيلِ اللَّهِ...يُهْلِكُونَ أَنفُسَهُمْ وَاللَّهُ يَعْلَمُ إِنَّهُمْ لَكَاذِبُونَ",
+                    "ayat": "42 - 38"
+                },
+                {
+                    "id": 9,
+                    "question": "عَفَا اللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ...وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ",
+                    "ayat": "49 - 43"
+                },
+                {
+                    "id": 10,
+                    "question": "إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ...إنَّمَا يُرِيدُ اللَّهُ لِيُعَذِّبَهُم بِهَا فِي الْحَيَاةِ الدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَافِرُونَ",
+                    "ayat": "55 - 50"
+                },
+                {
+                    "id": 11,
+                    "question": "وَيَحْلِفُونَ بِاللَّهِ إِنَّهُمْ لَمِنكُمْ...وَالَّذِينَ يُؤْذُونَ رَسُولَ اللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ",
+                    "ayat": "61 - 56"
+                },
+                {
+                    "id": 12,
+                    "question": "يَحْلِفُونَ بِاللَّهِ لَكُمْ لِيُرْضُوكُمْ...أَتَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُواْ أَنفُسَهُمْ يَظْلِمُونَ",
+                    "ayat": "70 - 62"
+                },
+                {
+                    "id": 13,
+                    "question": "وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاء بَعْضٍ...وَرِضْوَانٌ مِّنَ اللَّهِ أَكْبَرُ ذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+                    "ayat": "72 - 71"
+                },
+                {
+                    "id": 14,
+                    "question": "يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ...ذَلِكَ بِأَنَّهُمْ كَفَرُواْ بِاللَّهِ وَرَسُولِهِ وَاللَّهُ لاَ يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+                    "ayat": "80 - 73"
+                },
+                {
+                    "id": 15,
+                    "question": "فَرِحَ الْمُخَلَّفُونَ بِمَقْعَدِهِمْ...أَعَدَّ اللَّهُ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الأَنْهَارُ خَالِدِينَ فِيهَا ذَلِكَ الْفَوْزُ الْعَظِيمُ",
+                    "ayat": "89 - 81"
+                },
+                {
+                    "id": 16,
+                    "question": "وَجَاءَ الْمُعَذِّرُونَ مِنَ الأَعْرَابِ...فَإِنَّ اللَّهَ لاَ يَرْضَى عَنِ الْقَوْمِ الْفَاسِقِينَ",
+                    "ayat": "96 - 90"
+                },
+                {
+                    "id": 17,
+                    "question": "الأَعْرَابُ أَشَدُّ كُفْرًا وَنِفَاقًا...وَإِمَّا يَتُوبُ عَلَيْهِمْ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+                    "ayat": "106 - 97"
+                },
+                {
+                    "id": 18,
+                    "question": "وَالَّذِينَ اتَّخَذُواْ مَسْجِدًا ضِرَارًا...وَالْحَافِظُونَ لِحُدُودِ اللَّهِ وَبَشِّرِ الْمُؤْمِنِينَ",
+                    "ayat": "112 - 107"
+                },
+                {
+                    "id": 19,
+                    "question": "مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُواْ أَن يَسْتَغْفِرُواْ لِلْمُشْرِكِينَ...ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُواْ إِنَّ اللَّهَ هُوَ التَّوَّابُ الرَّحِيمُ",
+                    "ayat": "118 - 113"
+                },
+                {
+                    "id": 20,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللَّهَ وَكُونُواْ مَعَ...وَلِيُنذِرُواْ قَوْمَهُمْ إِذَا رَجَعُواْ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+                    "ayat": "122 - 119"
+                },
+                {
+                    "id": 21,
+                    "question": "يَا أَيُّهَا الَّذِينَ آمَنُواْ قَاتِلُواْ الَّذِينَ يَلُونَكُم مِّنَ الْكُفَّارِ...لا إِلَهَ إِلاَّ هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+                    "ayat": "129 - 123"
+                }
+            ]            
         },
         {    
             "sura":"الرعد",
@@ -6096,6 +6576,306 @@
                 }
             ]
             
+        },
+        {
+            "sura":"التوبة",
+            "questions":[
+                {
+                    "id": 1,
+                    "question": "Declaration of disassociation from Allah and His messenger to the polytheists’ treaties, granting them four months, making them aware of it on the Day of Sacrifice, inviting them to repent, warning those who turn back/turn away, with an exception of those who fulfil their treaties",
+                    "ayat": " 4 - 1"
+                },
+                {
+                    "id": 2,
+                    "question": "An order to fight the polytheists’ after the months are over, grant forgiveness to those who repent, and the ruling of giving protection to the polytheists",
+                    "ayat": " 6 - 5"
+                },
+                {
+                    "id": 3,
+                    "question": "Prohibiting having a treaty with the polytheists, with exception to the treaty of Hudaibiyah, showing the reasoning behind the impossibility of establishing such treaties, the ruling for those who repent, and an order to fight those who break their oaths with reasons for this order",
+                    "ayat": "13 - 7"
+                },
+                {
+                    "id": 4,
+                    "question": "The benefits of fighting the disbelievers, and of the rulings of Jihad is declaring protection from Allah",
+                    "ayat": "16 - 14"
+                },
+                {
+                    "id": 5,
+                    "question": "Preventing the polytheists from establishing Allah’s places of worship, the worthlessness of their deeds, restricting the establishments of these places of worship to the guided believers only",
+                    "ayat": "18 - 17"
+                },
+                {
+                    "id": 6,
+                    "question": "Negating equality between providing water for the pilgrims and maintaining of Al-Masjid Al-Haram to belief in Allah and striving in the way of Allah",
+                    "ayat": "22 - 19"
+                },
+                {
+                    "id": 7,
+                    "question": "Prohibiting the believers from taking their fathers and brothers as allies, and warning those who choose/prefer the love of this Duniya over Allah, His messenger, and Jihad/striving in His cause",
+                    "ayat": "24 - 23"
+                },
+                {
+                    "id": 8,
+                    "question": "Reminding the believers that Allah will grant them victory, describing their state on the Day of Hunain and granting them victory, and accepting repentance from those whom He wills",
+                    "ayat": "27 - 25"
+                },
+                {
+                    "id": 9,
+                    "question": "The impurity of polytheists, forbidding them from entering Al-Masjid Al-Haraam, promising the believers their freedom from needing them",
+                    "ayat": "28"
+                },
+                {
+                    "id": 10,
+                    "question": "Command to fight the People of the Scriptures with just cause, and ordering them to pay a tax (jizyah)",
+                    "ayat": "29"
+                },
+                {
+                    "id": 11,
+                    "question": "Blasphemous statements of the Jews and the Christians: their exaggeration regarding their scholars and monks and The Messiah; their striving to annihilate Allah’s religion, and Allah's promise that the truth will prevail",
+                    "ayat": "32 - 30"
+                },
+                {
+                    "id": 12,
+                    "question": "Exposing the financial corruption of the scholars and monks, and threatening them as well as those who discourage charity and hoard wealth with punishment",
+                    "ayat": "35 - 34"
+                },
+                {
+                    "id": 13,
+                    "question": "Legislation regarding the sacred months, including the abolition of the practice of an-nasee (reallocating the sacred months)",
+                    "ayat": "37 - 36"
+                },
+                {
+                    "id": 14,
+                    "question": "Warning the believers against preferring worldly attractions over the hereafter, and of the consequences for not obeying the call for jihad, and reminding them that Allah will support His Prophet irrespective of their help",
+                    "ayat": "40 - 38"
+                },
+                {
+                    "id": 15,
+                    "question": "Exhorting the believers to march forth whatever their situation and to strive with their wealth and lives.",
+                    "ayat": "41"
+                },
+                {
+                    "id": 16,
+                    "question": "Exposing the hypocrites’ reasons for not participating in battle, and their false oaths",
+                    "ayat": "42"
+                },
+                {
+                    "id": 17,
+                    "question": "A gentle reproach to the Prophet for accepting the hypocrites' excuses, and confirming that making excuses to avoid battle is itself a sign of hypocrisy",
+                    "ayat": "45 - 43"
+                },
+                {
+                    "id": 18,
+                    "question": "Evidences proving the invalidity of their excuses, and Allah mentioning some reasons He himself did not want them to participate in battle.",
+                    "ayat": "48 - 46"
+                },
+                {
+                    "id": 19,
+                    "question": "Responding to the hypocrites misplaced fear of fitnah. ",
+                    "ayat": "49"
+                },
+                {
+                    "id": 20,
+                    "question": "Of their treacherous acts: being grieved when the believers are victorious, and rejoicing in their adversities. Commentary to the believers: Directing the believers to respond in the best manner: with submission to Allah's will and hope in his reward",
+                    "ayat": "52 - 50"
+                },
+                {
+                    "id": 21,
+                    "question": "Of their treacherous acts: deliberately performing acts of worship in unacceptable ways. Commentary to the believers: do not be dazzled by their wealth and children because they will become sources of suffering for them",
+                    "ayat": "55 - 53"
+                },
+                {
+                    "id": 22,
+                    "question": "Of their treacherous acts: falsely swearing by Allah that they are believers and their cowardice.",
+                    "ayat": "57 - 56"
+                },
+                {
+                    "id": 23,
+                    "question": "Of their treacherous acts: accusing the Prophet of unfairness in distributing charity.Commentary: be content and hope in Allah's bounty. Listing those who are eligible to receive zakah",
+                    "ayat": "60 -58"
+                },
+                {
+                    "id": 24,
+                    "question": "Of their treacherous acts: Insulting the Prophet by claiming he “listens to anyone”, Commentary: responding by stating that he “listens to what is good for you” and that he is a mercy to the believers, and warning that a painful punishment awaits those who harm the Messenge",
+                    "ayat": "61"
+                },
+                {
+                    "id": 25,
+                    "question": "Of their treacherous acts: False oaths to please the believers, Commentary: focus on pleasing Allah and His Messenger because opposing them leads to punishment and disgrace",
+                    "ayat": "63 - 62"
+                },
+                {
+                    "id": 26,
+                    "question": "Of their treacherous acts: their trepidation of a surah being revealed that would expose their secrets. Commentary.  Allah may grant them time, but what they fear will be revealed",
+                    "ayat": "64"
+                },
+                {
+                    "id": 27,
+                    "question": "Of their treacherous acts: Making petty excuses for their inappropriate joking about religion. Commentary: Mocking religion cannot be excused: it is an act of disbelief that needs repentance to escape punishment",
+                    "ayat": "66 - 65"
+                },
+                {
+                    "id": 28,
+                    "question": "Of their treacherous acts: they encourage evil and forbid good, males and females being equal in their hypocrisy. Commentary: They are cursed and promised punishment",
+                    "ayat": "68 - 67"
+                },
+                {
+                    "id": 29,
+                    "question": "Of their treacherous acts: comparing their actions in playing and mocking to those before them, Commentary: rebuking them for not learning from their stories",
+                    "ayat": "70 - 69"
+                },
+                {
+                    "id": 30,
+                    "question": "Commentaries emphasizing the support of believers to one another, contrasting their characteristics as opposite to the characteristics of the hypocrites, and Allah's promise of eternal reward.",
+                    "ayat": "72 - 71"
+                },
+                {
+                    "id": 31,
+                    "question": "Ordering the Prophet ﷺ to fight against the disbelievers and hypocrites and to be firm against them",
+                    "ayat": "73"
+                },
+                {
+                    "id": 32,
+                    "question": "Of their deceptions:  taking oaths denying their statements of disbelief, and Allah confirming its falsehood; their disbelief, their evil plotting, and their resentment of the believers. Commentary:  Promising forgiveness to those who repent and warning those who persist in evil",
+                    "ayat": "74"
+                },
+                {
+                    "id": 33,
+                    "question": "Of their deceptions: promising Allah they will give charity if He gives them from His bounty, then breaking their promise, and mocking the believers' charities. Commentary: Allah’s punishment for the hypocrites, His rebuking them for thinking Allah was unaware of their secrets, throwing their mockery back at them, and  excluding them from forgiveness",
+                    "ayat": "80 - 75"
+                },
+                {
+                    "id": 34,
+                    "question": "The hypocrites who remained behind: feeling happy to stay behind, disliking to fight, and discouraging others from going. Commentary: Allah’s warning them regarding their attitude, and His instructions to the Prophet ﷺ on how to deal with them.",
+                    "ayat": "85 - 81"
+                },
+                {
+                    "id": 35,
+                    "question": "The hypocrites who remained behind: being content to stay at home and seeking exemption from following the order to believe and fight, Commentary: Praising those who strove in the way of Allah and detailing their rewards",
+                    "ayat": "89 - 86"
+                },
+                {
+                    "id": 36,
+                    "question": "The Bedouins who stayed behind: Exempting the bedouins who presented valid excuses, while warning the hypocrites amongst them who remained behind unlawfully with punishment",
+                    "ayat": "90"
+                },
+                {
+                    "id": 37,
+                    "question": "Those with valid excuses to remain behind: Listing the legitimate reasons that lift the obligation of fighting from those who are sincere, and warning those who request exemption without valid excuses.",
+                    "ayat": "93 - 91"
+                },
+                {
+                    "id": 38,
+                    "question": "The hypocrites who remained behind will apologize and present excuses after the Muslim's return from the expedition",
+                    "ayat": "94"
+                },
+                {
+                    "id": 39,
+                    "question": "Instructing the believers to turn away from the hypocrites when they swear false oaths and confirming their punishment",
+                    "ayat": "95"
+                },
+                {
+                    "id": 40,
+                    "question": "Warning the believers against being satisfied with their false oaths.",
+                    "ayat": "97 - 96"
+                },
+                {
+                    "id": 41,
+                    "question": "The disbelieving and hypocrite Bedouins: the depth of their hypocrisy and hypocrisy, their ignorance of Allah's limits, and envy towards the believers.",
+                    "ayat": "98"
+                },
+                {
+                    "id": 42,
+                    "question": "The believing Bedouins: their faithfulness & charitable acts, and their reward",
+                    "ayat": "99"
+                },
+                {
+                    "id": 43,
+                    "question": "The Muhajroon/emigrants from Makkah and the Ansaar/helpers of Madinah and those who follow them: their virtues and reward",
+                    "ayat": "100"
+                },
+                {
+                    "id": 44,
+                    "question": "The hypocrites amongst the bedouins and residents of Al-Madinah:  Allah’s knowledge of them and His promise of punishment in this life and the Hereafter.",
+                    "ayat": "101"
+                },
+                {
+                    "id": 45,
+                    "question": "Those who acknowledged their sin regarding staying behind and disobeying the Prophet ﷺ: Allah’s ruling regards them, ordering the Prophet ﷺ to accept their charity, to ask forgiveness for them, and alerting that only Allah accepts repentance and charity and that deeds must be accompanied by sincerity",
+                    "ayat": "105 - 102"
+                },
+                {
+                    "id": 46,
+                    "question": "Those whose decision was delayed: they would be made to wait Allah's Decree",
+                    "ayat": "106"
+                },
+                {
+                    "id": 47,
+                    "question": "Building Masjid Ad-Diraar by the hypocrites: its aims, Allah’s declaration of their ill intentions",
+                    "ayat": "107"
+                },
+                {
+                    "id": 48,
+                    "question": "Forbidding the Prophet ﷺ from praying in it, honoring Masjid Quba’ and its leaders and followers",
+                    "ayat": "108"
+                },
+                {
+                    "id": 49,
+                    "question": "The comparison between the foundation of Taqwa/righteousness and the foundation of hypocrisy, detailing the consequences of building Masjid Ad-Diraar for the hypocrites in this life and the hereafter",
+                    "ayat": "110 - 109"
+                },
+                {
+                    "id": 50,
+                    "question": "Purchasing and selling between Allah and those who fight in His way, promising them glad tidings of a great victory, and complimenting them with eight descriptions.",
+                    "ayat": "112 - 111"
+                },
+                {
+                    "id": 51,
+                    "question": "Prohibiting the Prophet ﷺ and the believers from seeking forgiveness for the polytheists, explaining the manner of Ibrahim’s request of forgiveness and complimenting him.",
+                    "ayat": "114 - 113"
+                },
+                {
+                    "id": 52,
+                    "question": "Allah does not punish until the proof is established, and a reminder of Allahs' Allah’s knowledge, dominion, might, and assistance.",
+                    "ayat": "116 - 115"
+                },
+                {
+                    "id": 53,
+                    "question": "Allah’s forgiveness of the Prophet ﷺ, the Muhajireen, and the Ansaar who followed him to the Battle of Tabouk, and of the three who were left behind, and instructions to the believers regarding taqwa (piety) and truthfulness",
+                    "ayat": "119 - 117"
+                },
+                {
+                    "id": 54,
+                    "question": "Condemnation of those who chose not to accompany the Prophet ﷺ to battle, and the great recompense for those who sacrificed",
+                    "ayat": "121 - 120"
+                },
+                {
+                    "id": 55,
+                    "question": "Prohibiting the believers to march forth all at once, and urging the separation of groups of believers to obtain understanding in the religion and to warn",
+                    "ayat": "122"
+                },
+                {
+                    "id": 56,
+                    "question": "Ordering the believers to fight the disbelievers starting with the closest, and being firm and harsh",
+                    "ayat": "123"
+                },
+                {
+                    "id": 57,
+                    "question": "The hypocrites’ statements when Surahs of the Quran are revealed, its impact upon the believers and the hypocrites, scolding the hypocrites for not repenting and learning from their trials",
+                    "ayat": "126 - 124"
+                },
+                {
+                    "id": 58,
+                    "question": "The hypocrites’ actions when Surahs of the Quran are revealed, cursing them for not understanding",
+                    "ayat": "127"
+                },
+                {
+                    "id": 59,
+                    "question": "Conclusion: Allah’s favor in sending the Messenger ﷺ, describing him with five fine characteristics, and affirming him when facing those who turn away",
+                    "ayat": "129 - 128"
+                }
+            ]            
         },
         {            
             "sura":"الرعد",
