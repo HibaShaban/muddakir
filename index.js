@@ -36,7 +36,7 @@ $(document).ready(function() {
         // }
         let index = Math.floor(Math.random() * questions.length);
         $("#question").html(questions[index].question);
-        $("#ayat").html(questions[index].ayat + " :الآية/الآيات");
+        $("#ayat").html(questions[index].ayat);
         $("#questionNum").html(counter+"/"+total_questions);
         questions.splice(index,1);
         counter += 1;
