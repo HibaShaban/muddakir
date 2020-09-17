@@ -37,7 +37,7 @@ $(document).ready(function() {
         let index = Math.floor(Math.random() * questions.length);
         $("#question").html(questions[index].question);
         $("#ayat").html(questions[index].ayat);
-        $("#questionNum").html(counter+"/"+total_questions);
+        $("#questionNum").html("Question: "+counter+" of "+total_questions);
         questions.splice(index,1);
         counter += 1;
     });
