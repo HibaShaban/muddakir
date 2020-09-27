@@ -13,7 +13,7 @@ $(document).ready(function() {
         counter = 1;
         questions = JSON.parse(JSON.stringify(question_type[suraNum].questions));
         total_questions = questions.length;
-    }
+    }  
 
     $.getJSON("data/questions.json", function(json) {
         db = json;
@@ -36,7 +36,7 @@ $(document).ready(function() {
         // }
         let index = Math.floor(Math.random() * questions.length);
         $("#question").html(questions[index].question);
-        $("#ayat").html(questions[index].ayat);
+        $("#ayat").html(questions[index].ayat.join('<br/>'));
         $("#questionNum").html(`Question ${counter} of ${total_questions}`);
         questions.splice(index,1);
         counter += 1;
@@ -54,6 +54,12 @@ $(document).ready(function() {
             case 'mahawir':
                 question_type = db.mahawir;
                 break;
+            case 'mutashabihaat':
+                question_type = db.mutashabihaat;
+                break;
+            //case "mutafaridat":
+            //    question_type = db.mutafaridat;
+            //    break;
             case 'topics':
                 question_type = db.topics;
                 break;
