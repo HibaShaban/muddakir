@@ -1,0 +1,122 @@
+[
+    {
+        "sura":"",
+        "questions":[
+            {
+            
+            }
+        ]
+    },
+    {
+        "sura":"البقرة",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"آل عمران",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"النساء",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"المائدة",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"الأنعام",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"الأعراف",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"الأنفال",
+        "questions":[
+            {
+                "id": 1,
+                "question":" (الأنفال 1-20-46 والمجادلة 13) أَطِيعُواْ اللَّهَ وَرَسُولَهُ",
+                "ayat":[
+                    "وأطيعوا الله وأطيعوا الرسول) عدا آل عمران 32 -132 (وأطيعوا الله والرسول))"
+                ]
+            }
+        ]
+    },
+    {
+        "sura":"التوبة",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"الرعد",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"إبراهيم",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"الحجر",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    }
+]
