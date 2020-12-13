@@ -1,40 +1,39 @@
-$(async function() {
+$(document).ready(function() {
 
     // Global variables
-    let file;
+    let db;
+    let question_type;
     let suraNum;
     let questions;
     let total_questions;
     let counter;
 
-    $.getJSON('data/suras.json', function(json){
-        $.each(json, function(key, value) {
-            $('#suraNum').append($("<option></option>").attr("value", key).text(value));
-        });
-    });
-
-    const loadFile = async function(question_type) {
-        await $.getJSON(`data/${question_type}.json`, async function(json) {
-            file = json;
-        });
-    }
-
-    function loadQuestions() {
+    let setValues = function() {
         suraNum = $("#suraNum").val();
-        console.log(suraNum);
-        console.log(file);
         counter = 1;
-        questions = JSON.parse(JSON.stringify(file[suraNum].questions));
+        questions = JSON.parse(JSON.stringify(question_type[suraNum].questions));
         total_questions = questions.length;
-    }
+    }  
 
-    await loadFile("maqati");
-    loadQuestions();
+    $.getJSON("data/questions.json", function(json) {
+        db = json;
+        $.each(db.maqati, function(key, value) {
+            $('#suraNum').append($("<option></option>").attr("value", key).text(value.sura));
+        });
+        question_type = db.maqati;
+        setValues();
+    });
 
     $("#next-btn").on("click", function() {
         if(counter > total_questions) {
-            loadQuestions();
+            setValues();
         }
+        // if (questions.length === 0) {
+        //     $("#question").html("Check back for questions later");
+        //     $("#ayat").html();
+        //     $("#questionNum").html();
+        //     return;
+        // }
         let index = Math.floor(Math.random() * questions.length);
         $("#question").html(questions[index].question);
         $("#ayat").html(questions[index].ayat.join('<br/>'));
@@ -44,15 +43,31 @@ $(async function() {
     });
     
     $('select').on('change', function() {
-        loadQuestions();
+        setValues();
     });
     
-    $('input[type=radio][name=question]').on('change', async function() {
-        await loadFile(this.value);
-        loadQuestions();
+    $('input[type=radio][name=question]').change(function() {
+        switch(this.value) {
+            case 'maqati':
+                question_type = db.maqati;
+                break;
+            case 'mahawir':
+                question_type = db.mahawir;
+                break;
+            case 'mutashabihaat':
+                question_type = db.mutashabihaat;
+                break;
+            //case "mutafaridat":
+            //    question_type = db.mutafaridat;
+            //    break;
+            case 'topics':
+                question_type = db.topics;
+                break;
+        }
+        setValues();
     });
 
-    $('#switchRoundedOutlinedDefault').on('click', function(){
+    $('#switchRoundedOutlinedDefault').click(function(){
         if($(this).is(':checked')){
             $("#ayat").show();
         } else {
