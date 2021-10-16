@@ -100,6 +100,16 @@
         ]
     },
     {
+        "sura":"هود",
+        "questions":[
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[]
+            }
+        ]
+    },
+    {
         "sura":"يوسف",
         "questions":[
             {
@@ -131,6 +141,16 @@
     },
     {
         "sura":"الحجر",
+        "questions": [
+            {
+                "id":1,
+                "question":"In Progress...check back later",
+                "ayat":[""]
+            }
+        ]
+    },
+    {
+        "sura":"الإسراء",
         "questions": [
             {
                 "id":1,
