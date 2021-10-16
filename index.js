@@ -1,39 +1,40 @@
-$(document).ready(function() {
+$(async function() {
 
     // Global variables
-    let db;
-    let question_type;
+    let file;
     let suraNum;
     let questions;
     let total_questions;
     let counter;
 
-    let setValues = function() {
-        suraNum = $("#suraNum").val();
-        counter = 1;
-        questions = JSON.parse(JSON.stringify(question_type[suraNum].questions));
-        total_questions = questions.length;
-    }  
-
-    $.getJSON("data/questions.json", function(json) {
-        db = json;
-        $.each(db.maqati, function(key, value) {
-            $('#suraNum').append($("<option></option>").attr("value", key).text(value.sura));
+    $.getJSON('data/suras.json', function(json){
+        $.each(json, function(key, value) {
+            $('#suraNum').append($("<option></option>").attr("value", key).text(value));
         });
-        question_type = db.maqati;
-        setValues();
     });
+
+    const loadFile = async function(question_type) {
+        await $.getJSON(`data/${question_type}.json`, async function(json) {
+            file = json;
+        });
+    }
+
+    function loadQuestions() {
+        suraNum = $("#suraNum").val();
+        console.log(suraNum);
+        console.log(file);
+        counter = 1;
+        questions = JSON.parse(JSON.stringify(file[suraNum].questions));
+        total_questions = questions.length;
+    }
+
+    await loadFile("maqati");
+    loadQuestions();
 
     $("#next-btn").on("click", function() {
         if(counter > total_questions) {
-            setValues();
+            loadQuestions();
         }
-        // if (questions.length === 0) {
-        //     $("#question").html("Check back for questions later");
-        //     $("#ayat").html();
-        //     $("#questionNum").html();
-        //     return;
-        // }
         let index = Math.floor(Math.random() * questions.length);
         $("#question").html(questions[index].question);
         $("#ayat").html(questions[index].ayat.join('<br/>'));
@@ -41,33 +42,17 @@ $(document).ready(function() {
         questions.splice(index,1);
         counter += 1;
     });
-    
+
     $('select').on('change', function() {
-        setValues();
-    });
-    
-    $('input[type=radio][name=question]').change(function() {
-        switch(this.value) {
-            case 'maqati':
-                question_type = db.maqati;
-                break;
-            case 'mahawir':
-                question_type = db.mahawir;
-                break;
-            case 'mutashabihaat':
-                question_type = db.mutashabihaat;
-                break;
-            //case "mutafaridat":
-            //    question_type = db.mutafaridat;
-            //    break;
-            case 'topics':
-                question_type = db.topics;
-                break;
-        }
-        setValues();
+        loadQuestions();
     });
 
-    $('#switchRoundedOutlinedDefault').click(function(){
+    $('input[type=radio][name=question]').on('change', async function() {
+        await loadFile(this.value);
+        loadQuestions();
+    });
+
+    $('#switchRoundedOutlinedDefault').on('click', function(){
         if($(this).is(':checked')){
             $("#ayat").show();
         } else {
