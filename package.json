@@ -9,6 +9,7 @@
   "author": "Hiba Shaban",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.24.0",
     "browser-sync": "^2.26.7",
     "bulma": "^0.8.2",
     "bulma-checkradio": "^1.1.1",

@@ -8,6 +8,8 @@
         <link rel="stylesheet" href="styles/main.css" /> <!--includes bulma.css and bulma-switch.css-->
         <link rel="stylesheet" href="node_modules/bulma-checkradio/"/>
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="https://kit.fontawesome.com/8f0685b13d.js" crossorigin="anonymous"></script>
+        <script src="node_modules/axios/dist/axios.min.js"></script>
         <script src="index.js"></script>
         <!-- <link rel="stylesheet" href="styles/debug.css"/> -->
     </head>
@@ -16,7 +18,7 @@
         <section class="hero is-primary">
             <div class="hero-head is-pulled-left">
                 <div class="container">
-                <img src="images/logo2.png" alt="logo" width="90px" style="vertical-align:middle">
+                <img src="images/logo.png" alt="logo" width="90px" style="vertical-align:middle">
                 </div>
             </div>
         </section>
@@ -62,9 +64,8 @@
                             </div>
                             </div>
 
-                            <div class="field">
-                            <input id="switchRoundedOutlinedDefault" type="checkbox" name="switchRoundedOutlinedDefault" class="switch is-rounded is-outlined is-primary">
-                            <label for="switchRoundedOutlinedDefault">Show Ayat</label>
+                            <div class="block">
+                                <i class="fas fa-eye fa-2x" id="view"></i>
                             </div>
 
                             <div class="field">
@@ -75,12 +76,12 @@
                     </div>
                 </div>
                 <div class="column is-two-thirds">
-                    <p id="question" class="is-size-2">
+                    <p id="question" class="is-size-2 has-text-centered">
                     </p>
-                    <p id="ayat" class="is-size-5" style="display:none">
+                    <p id="questionNum" class="is-size-5 has-text-centered" style="color:#ccac6b">
                     </p>
-                    <p id="questionNum" class="is-size-5" style="color:#ccac6b">
-                    </p>
+                    <div id="ayat" class="is-size-5" style="display:none">
+                    </div>
                 </div>
 
 

@@ -8,67 +8,67 @@
         ]
     },
     {
-        "sura":"البقرة",
+        "sura":2,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"آل عمران",
+        "sura":3,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"النساء",
+        "sura":4,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"المائدة",
+        "sura":5,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"الأنعام",
+        "sura":6,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"الأعراف",
+        "sura":7,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"الأنفال",
+        "sura":8,
         "questions":[
             {
                 "id": 1,
@@ -80,17 +80,17 @@
         ]
     },
     {
-        "sura":"التوبة",
+        "sura":9,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"يونس",
+        "sura":10,
         "questions":[
             {
                 "id":1,
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "sura":"هود",
+        "sura":11,
         "questions":[
             {
                 "id":1,
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "sura":"يوسف",
+        "sura":12,
         "questions":[
             {
                 "id":1,
@@ -120,53 +120,53 @@
         ]
     },
     {
-        "sura":"الرعد",
+        "sura":13,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"إبراهيم",
+        "sura":14,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"الحجر",
+        "sura":15,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"الإسراء",
+        "sura":17,
         "questions": [
             {
                 "id":1,
                 "question":"In Progress...check back later",
-                "ayat":[""]
+                "ayat":[]
             }
         ]
     },
     {
-        "sura":"الكهف",
+        "sura":18,
         "questions":[
             {
                 "id": 1,
                 "question": "In Progress...check back later",
-                "ayat":[ ""
-            ]}
+                "ayat":[]
+            }
         ]
     }
 ]
